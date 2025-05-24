@@ -1,0 +1,64 @@
+# SDXL LoRA Fine-tuning Configuration for MarketMind
+# This file configures the fine-tuning of Stable Diffusion XL with LoRA
+# to generate social media ad posters with the [marketmind] trigger word
+
+# Model settings
+model:
+  name_or_path: "stabilityai/stable-diffusion-xl-base-1.0"  # Base SDXL model
+  revision: null  # Set to specific revision if needed
+
+# Configuration settings
+config:
+  name: "marketmind"  # Name of the model
+  trigger_word: "marketmind"  # Trigger word for the model
+  training_folder: "./training_output"  # Output directory for training artifacts
+  performance_log_every: 10  # Log performance metrics every N steps
+  network:
+    linear: 8  # LoRA rank
+    linear_alpha: 16  # LoRA alpha value
+
+# Dataset settings
+datasets:
+  - folder_path: "./dataset/images"  # Path to images folder
+    caption_folder: "./dataset/captions"  # Path to captions folder
+    width: 1024  # Image width
+    height: 1024  # Image height
+    caption_ext: "txt"  # Caption file extension
+
+# Training settings
+train:
+  batch_size: 1  # Batch size
+  gradient_accumulation_steps: 4  # Gradient accumulation steps
+  steps: 1000  # Total training steps
+  lr: 1e-4  # Learning rate
+  lr_scheduler: "cosine"  # Learning rate scheduler (cosine, linear, constant)
+  warmup_steps: 100  # Learning rate warmup steps
+  seed: 42  # Random seed for reproducibility
+  max_grad_norm: 1.0  # Maximum gradient norm for clipping
+  weight_decay: 1e-2  # Weight decay
+  adam_epsilon: 1e-8  # Adam epsilon
+  train_text_encoder: false  # Whether to fine-tune the text encoder
+  train_text_encoder_2: false  # Whether to fine-tune the second text encoder
+  num_workers: 2  # Number of dataloader workers
+
+# Save settings
+save:
+  save_every: 200  # Save checkpoint every N steps
+  max_step_saves_to_keep: 3  # Maximum number of checkpoints to keep
+
+# Sampling settings
+sample:
+  sample_every: 200  # Generate samples every N steps
+  sample_steps: 30  # Number of steps for sample generation
+  guidance_scale: 7.5  # Classifier-free guidance scale
+  seed: 42  # Base seed for sample generation
+  walk_seed: true  # Whether to increment seed for each generation
+  prompts:  # Prompts for sample generation
+    - "[marketmind] minimalist social media poster for a tech startup"
+    - "[marketmind] vibrant facebook ad for a fitness product"
+    - "[marketmind] elegant instagram post for a luxury fashion brand"
+    - "[marketmind] eye-catching twitter banner for a food delivery service"
+  neg: "blurry, low quality, text errors, distorted, ugly, amateur, unprofessional"  # Negative prompt
+
+# Data type settings
+dtype: "fp16"  # Data type (fp16 or fp32)

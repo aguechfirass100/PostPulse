@@ -1,0 +1,67 @@
+services:
+  api-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: api-gateway
+    ports:
+      - "8000:8000"
+    environment:
+      - USER_SERVICE_URL=http://user-service:5001
+      - IMAGE_SERVICE_URL=http://image-service:5002
+    networks:
+      - microservices-network
+    depends_on:
+      - user-service
+      - image-service
+
+  user-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: user-service
+    expose:
+      - "5001"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/user_db
+      - JWT_SECRET=your_jwt_secret_key_here
+      - GOOGLE_CLIENT_ID=your_google_client_id_here
+      - GOOGLE_CLIENT_SECRET=your_google_client_secret_here
+      - FACEBOOK_CLIENT_ID=your_facebook_client_id_here
+      - FACEBOOK_CLIENT_SECRET=your_facebook_client_secret_here
+      - SERVICE_BASE_URL=http://api-gateway:8000
+    networks:
+      - microservices-network
+    depends_on:
+      - mongo
+
+  image-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: image-service
+    expose:
+      - "5002"
+    environment:
+      - JWT_SECRET=your_jwt_secret_key_here
+    networks:
+      - microservices-network
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - microservices-network
+
+networks:
+  microservices-network:
+    driver: bridge
+
+volumes:
+  mongo-data:

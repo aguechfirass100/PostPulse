@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+pymongo
+pyjwt
+flask-cors
+requests-oauthlib
+python-dotenv
+

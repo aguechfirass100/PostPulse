@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+requests
+flask-cors
+python-dotenv
+

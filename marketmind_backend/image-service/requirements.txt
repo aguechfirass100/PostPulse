@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+pyjwt
+flask-cors
+python-dotenv
+pillow
+numpy
+

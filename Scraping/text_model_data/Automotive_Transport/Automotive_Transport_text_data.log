@@ -1,0 +1,781 @@
+2025-03-29 15:40:31,545 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 15:40:34,896 - INFO - Successfully processed image_id: 0755f3273700833e76dfa6a13d40e58c
+2025-03-29 15:40:39,442 - INFO - Successfully processed image_id: ddefb9d47a2c6508ae12e78693f0afc0
+2025-03-29 15:40:45,067 - INFO - Successfully processed image_id: 8f06464b37d0b123e9425470888e75a8
+2025-03-29 15:40:50,588 - INFO - Successfully processed image_id: eb5796005d1038cad5a976f5c5d5f2cc
+2025-03-29 15:40:51,591 - ERROR - Image load failed: e9206ae92b8b581b288235653adc3eda - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e9206ae92b8b581b288235653adc3eda.jpg'
+2025-03-29 15:40:54,818 - INFO - Successfully processed image_id: ba25ec1eb3344d95674c26e5c2a38b80
+2025-03-29 15:40:58,649 - INFO - Successfully processed image_id: 6358579007634ea7325185f28a6b00e2
+2025-03-29 15:41:03,309 - INFO - Successfully processed image_id: 849300fe74ee7da33d2ba2fb2bfb8445
+2025-03-29 15:41:32,070 - INFO - Successfully processed image_id: 838503149a6b741abc23f85cdf5d44df
+2025-03-29 15:41:36,161 - INFO - Successfully processed image_id: 1b9dad3937a4b24a9d4373f87151d725
+2025-03-29 15:41:41,194 - INFO - Successfully processed image_id: 04b3ad8cf91687690142f422ae3e4684
+2025-03-29 15:41:53,582 - INFO - Successfully processed image_id: 1177079e09823b0e1c7e369ff07135a2
+2025-03-29 15:41:57,480 - INFO - Successfully processed image_id: 907d9b9cf777859f12c30a16bf58d3c3
+2025-03-29 15:42:06,896 - INFO - Successfully processed image_id: eb3291f75854fa895303e24ebc1bc4a3
+2025-03-29 15:42:11,059 - INFO - Successfully processed image_id: 8d7c0ffc21a62de0a0414f4d45e86e1b
+2025-03-29 15:42:15,686 - INFO - Successfully processed image_id: cf92400c48ebb6c6091b0477ce69946d
+2025-03-29 15:42:20,228 - INFO - Successfully processed image_id: 21a8af5e87fdee8791ca2fc658339b36
+2025-03-29 15:42:23,297 - INFO - Successfully processed image_id: 850d91645ca4e1e5180e035dd1cb9f84
+2025-03-29 15:42:27,752 - INFO - Successfully processed image_id: e653a1404413e7b4aff7181dad81d4d8
+2025-03-29 15:42:31,111 - INFO - Successfully processed image_id: 416f88d899300b51dbaf0a7a0e8f07fe
+2025-03-29 15:42:34,902 - INFO - Successfully processed image_id: 275559dc33e8ec40f166ba999f27db2d
+2025-03-29 15:42:42,195 - INFO - Successfully processed image_id: 72855964b09b67ba6c16bd87f22ee9f6
+2025-03-29 15:42:46,929 - INFO - Successfully processed image_id: 04d31b74bf3d8c9a1a5c6ad9b998a3db
+2025-03-29 15:42:50,551 - INFO - Successfully processed image_id: 5f921fb84640b4037a9e14fdcb755013
+2025-03-29 15:42:53,982 - INFO - Successfully processed image_id: 1455fe0e862da30e7f3f4c6cb6d74990
+2025-03-29 15:42:59,942 - INFO - Successfully processed image_id: b445d38b5979f70aa6acd7318284d1ed
+2025-03-29 15:43:03,611 - INFO - Successfully processed image_id: c35ddb2b690d10ba4d47ca857e14ac83
+2025-03-29 15:43:09,152 - INFO - Successfully processed image_id: 5c315040daee527b444a8dcb3978bf67
+2025-03-29 15:43:12,985 - INFO - Successfully processed image_id: 2a73869e6968ddd5d80dc218a65fc4b0
+2025-03-29 15:43:16,945 - INFO - Successfully processed image_id: d919c92a850c8e2458ff382ba2656c14
+2025-03-29 15:43:21,376 - INFO - Successfully processed image_id: c0580800635add5799879ae152caa18b
+2025-03-29 15:43:25,761 - INFO - Successfully processed image_id: 16eec9e93d466ab9eda909753cdd1d81
+2025-03-29 15:43:30,792 - INFO - Successfully processed image_id: 6d0894a316de842fd5d750e5bab5a93a
+2025-03-29 15:43:39,260 - INFO - Successfully processed image_id: 05b459778efb2bd20ef477607cfa5253
+2025-03-29 15:43:40,262 - ERROR - Image load failed: 2fd002466ef0ce4a0394bd5e14aa7b4b - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/2fd002466ef0ce4a0394bd5e14aa7b4b.jpg'
+2025-03-29 15:43:43,545 - INFO - Successfully processed image_id: 34427117f3e0fbda939f41668484979a
+2025-03-29 15:43:44,547 - ERROR - Image load failed: 2530f2a6bc24a15bdd4d407de28e0ddb - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/2530f2a6bc24a15bdd4d407de28e0ddb.jpg'
+2025-03-29 15:43:48,306 - INFO - Successfully processed image_id: c341595ada1842e7edf87e974ccb45c3
+2025-03-29 15:43:49,307 - ERROR - Image load failed: da004a5b0f93621d6d3f920ca402c8e4 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/da004a5b0f93621d6d3f920ca402c8e4.jpg'
+2025-03-29 15:43:53,297 - INFO - Successfully processed image_id: 4ef02b33c9de1d4eb5fa0074c8faff09
+2025-03-29 15:43:57,880 - INFO - Successfully processed image_id: 35d1a503f259a90b234f12226d03382f
+2025-03-29 15:44:02,977 - INFO - Successfully processed image_id: 300592cc159f38d61cc4d4df53a2cb8c
+2025-03-29 15:44:06,849 - INFO - Successfully processed image_id: 2e97b1092302b01af2480a8f604901ba
+2025-03-29 15:44:23,431 - INFO - Successfully processed image_id: 146474cbea9339e5c2e0488420018fc5
+2025-03-29 15:44:28,381 - INFO - Successfully processed image_id: 5dac283d72a121dca985334ce0b15d6d
+2025-03-29 15:44:29,383 - ERROR - Image load failed: 9d0cb9b8981324356e3a541f0229ec6d - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9d0cb9b8981324356e3a541f0229ec6d.jpg'
+2025-03-29 15:44:29,384 - ERROR - Image load failed: e32c07d2fcd0b1c5815df1c36727aaae - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e32c07d2fcd0b1c5815df1c36727aaae.jpg'
+2025-03-29 15:44:33,310 - INFO - Successfully processed image_id: b78cce1e42a5cacd9689b6ec499ed2f6
+2025-03-29 15:44:37,807 - INFO - Successfully processed image_id: a6b881b23a3adac1ea5d1169b027f827
+2025-03-29 15:44:43,155 - INFO - Successfully processed image_id: f4e3ca9fb5eedc7ac6cb8b71880d1585
+2025-03-29 15:44:47,811 - INFO - Successfully processed image_id: 1901b84d7b99e233ff449b78b49767e3
+2025-03-29 15:44:48,812 - ERROR - Image load failed: a257be7ae191df6e431f13b8c9f6efd9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/a257be7ae191df6e431f13b8c9f6efd9.jpg'
+2025-03-29 15:44:52,694 - INFO - Successfully processed image_id: 7fb754d724b60b95de8b58ccdaf56484
+2025-03-29 15:44:57,126 - INFO - Successfully processed image_id: 3a62400a71f68ddf7a940253ec3f6acc
+2025-03-29 15:45:01,240 - INFO - Successfully processed image_id: 73b5287bef91f3e9134b5f8746dc1c06
+2025-03-29 15:45:05,391 - INFO - Successfully processed image_id: 7fa1181464bab92a244741e1db0c1e7d
+2025-03-29 15:45:10,889 - INFO - Successfully processed image_id: 309c605d515645b7cf58aa8dadbacc20
+2025-03-29 15:45:14,847 - INFO - Successfully processed image_id: 315d87ee95761bb063821c9ce7f3729f
+2025-03-29 15:45:20,632 - INFO - Successfully processed image_id: 515e1689df62536ac648a1f504187ff5
+2025-03-29 15:45:24,156 - INFO - Successfully processed image_id: bd4eb726bdb577cc11e942ee1d11cdb7
+2025-03-29 15:45:25,159 - ERROR - Image load failed: f1cf2a390e1c1c1d06cc151916846134 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/f1cf2a390e1c1c1d06cc151916846134.jpg'
+2025-03-29 15:45:29,440 - INFO - Successfully processed image_id: 048981f9b4d18e97fffa9a85784de95b
+2025-03-29 15:45:33,848 - INFO - Successfully processed image_id: 53098270f422e2f18360ea05808e8266
+2025-03-29 15:45:38,407 - INFO - Successfully processed image_id: 4c439d364803eb9cfc5abff3d167b054
+2025-03-29 15:45:44,166 - INFO - Successfully processed image_id: c0133fcca88c9e96dbcbaf073d4fd73e
+2025-03-29 15:45:50,346 - INFO - Successfully processed image_id: 7b418743bc1819dd1348756fa0406d7a
+2025-03-29 15:45:54,648 - INFO - Successfully processed image_id: e900ca0a31a5509d698b191bd5a428a8
+2025-03-29 15:45:55,650 - ERROR - Image load failed: a0ef7d60a66f3ae24ddabc042f0ecea4 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/a0ef7d60a66f3ae24ddabc042f0ecea4.jpg'
+2025-03-29 15:46:02,632 - INFO - Successfully processed image_id: d3620d9445c73d553d8a64fc73a7bfb0
+2025-03-29 15:46:07,424 - INFO - Successfully processed image_id: 6865c493e69d3836166b1fc571347be0
+2025-03-29 15:46:08,425 - ERROR - Image load failed: 56d585253f2006b40bc2a403fb596531 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/56d585253f2006b40bc2a403fb596531.jpg'
+2025-03-29 15:46:18,073 - INFO - Successfully processed image_id: 0fc1521285597841a17e39ac238e7f39
+2025-03-29 15:46:58,450 - INFO - Successfully processed image_id: d3a8e815336228d1f1a910bf0f925e49
+2025-03-29 15:47:02,446 - INFO - Successfully processed image_id: bb0bcbb9887f01462c137dadcdb40149
+2025-03-29 15:47:08,788 - INFO - Successfully processed image_id: 463eee24e7b4d3d56e73e005a4a39f15
+2025-03-29 15:47:15,594 - INFO - Successfully processed image_id: e0290bb8f7173113319bcd3b23806c81
+2025-03-29 15:47:22,047 - INFO - Successfully processed image_id: e685c4b44f14bcae8dc4b470e46bdf57
+2025-03-29 15:47:27,077 - INFO - Successfully processed image_id: 47ced8c6731dec99624bf1a7824bcd67
+2025-03-29 15:47:31,920 - INFO - Successfully processed image_id: 9501cc506b3fdeeafd5482d074b61b55
+2025-03-29 15:47:36,331 - INFO - Successfully processed image_id: 63cc158340afa71b77f0ae7b22502b57
+2025-03-29 15:47:41,385 - INFO - Successfully processed image_id: 0dca847f26e22f99627b01dd9ce077c1
+2025-03-29 15:47:42,388 - ERROR - Image load failed: c6b3028ea871c7e3e4d94bd067694c2a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c6b3028ea871c7e3e4d94bd067694c2a.jpg'
+2025-03-29 15:47:42,388 - ERROR - Image load failed: e7e401d818b5f8bfd852ec95f1924b4c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e7e401d818b5f8bfd852ec95f1924b4c.jpg'
+2025-03-29 15:47:45,892 - INFO - Successfully processed image_id: 92e795772956573f0356385ba8dcad44
+2025-03-29 15:47:49,957 - INFO - Successfully processed image_id: 1d222cc0adf6d027fb04446ed4add254
+2025-03-29 15:48:03,509 - INFO - Successfully processed image_id: 6c75333c723781cfad19ad8e6b2ce195
+2025-03-29 15:48:04,511 - ERROR - Image load failed: 7c3105a704d088e30fb93394e2ed576e - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/7c3105a704d088e30fb93394e2ed576e.jpg'
+2025-03-29 15:48:08,431 - INFO - Successfully processed image_id: 5ebf02edc1f2cd0aa2a965edf628df89
+2025-03-29 15:48:09,432 - ERROR - Image load failed: 69ca7c91812d88dba43bc7e31f79da11 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/69ca7c91812d88dba43bc7e31f79da11.jpg'
+2025-03-29 15:48:12,447 - INFO - Successfully processed image_id: b4799d24322db1ff5ce37eaa57ac2a09
+2025-03-29 15:48:13,448 - ERROR - Image load failed: be8f26f98a35a59436e2722030696f00 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/be8f26f98a35a59436e2722030696f00.jpg'
+2025-03-29 15:48:19,960 - INFO - Successfully processed image_id: 89c6e3455c1b178ddeff4928d71b2380
+2025-03-29 15:48:24,046 - INFO - Successfully processed image_id: 94093b9ff6552155719bd99ee17ec7b8
+2025-03-29 15:48:29,235 - INFO - Successfully processed image_id: b95c18dfffb7756b50c252e0c81611be
+2025-03-29 15:48:32,944 - INFO - Successfully processed image_id: 7ca886ec80a2269b5c5a5e1a5ee83c2b
+2025-03-29 15:48:42,836 - INFO - Successfully processed image_id: 23885e27236a04fee0a576afdad45ab5
+2025-03-29 15:48:50,842 - INFO - Successfully processed image_id: e28798ff4348c2302b1716eb93b2ec6f
+2025-03-29 15:49:06,809 - INFO - Successfully processed image_id: e5bd9656cb54309d9570cfbf2d50a780
+2025-03-29 15:49:27,306 - INFO - Successfully processed image_id: 94d0ccbb516bc1be9e54b0685de16feb
+2025-03-29 15:49:55,678 - INFO - Successfully processed image_id: c8396170feab878e532fa244d3de1596
+2025-03-29 15:50:08,169 - INFO - Successfully processed image_id: 10775dfea2f85aa4feb037eaa33e9204
+2025-03-29 15:50:32,171 - INFO - Successfully processed image_id: eb3a34db4c9d121b3724b618d37a8748
+2025-03-29 15:50:43,229 - INFO - Successfully processed image_id: 096f2314fece2b3c28cae30b6cb013db
+2025-03-29 15:50:56,162 - INFO - Successfully processed image_id: 8d6d1c40cea619696c6bd41e39b76d5b
+2025-03-29 15:51:16,278 - INFO - Successfully processed image_id: 75bb695f8374df30d7816fb9b22381b5
+2025-03-29 15:51:22,402 - INFO - Successfully processed image_id: 21ef5fac1d078330498a25a970607008
+2025-03-29 15:51:39,531 - INFO - Successfully processed image_id: 2c268e92f550babdfb67d1d41329f6d2
+2025-03-29 15:51:48,035 - INFO - Successfully processed image_id: a3a0c05804a1f9109a76a29c1f71e632
+2025-03-29 15:52:01,498 - INFO - Successfully processed image_id: e48758006f3e9d0376e77244058998da
+2025-03-29 15:52:32,903 - INFO - Successfully processed image_id: add1017c8998291444d2b6dc97cb38fc
+2025-03-29 15:52:37,972 - INFO - Successfully processed image_id: fe85b03a48dedeb3401428a7e7f7607b
+2025-03-29 15:52:48,957 - INFO - Successfully processed image_id: 3bf589ef71590ae630461118e3485cbd
+2025-03-29 15:52:56,757 - INFO - Successfully processed image_id: 2d985fcab99ccd2cf1d1f6ac11ba32b2
+2025-03-29 15:52:57,762 - ERROR - Image load failed: 7d9e9f1154a732c1282489672d7b7b8f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/7d9e9f1154a732c1282489672d7b7b8f.jpg'
+2025-03-29 15:53:01,223 - INFO - Successfully processed image_id: 34f483cece53c51f65747dcc4f46d0cb
+2025-03-29 15:53:22,111 - INFO - Successfully processed image_id: eba95e641899de91ee66c7ae6b92f303
+2025-03-29 15:53:28,233 - INFO - Successfully processed image_id: cbb0adc848d16b37d9e7c13dd8fc6df2
+2025-03-29 15:53:31,977 - INFO - Successfully processed image_id: a800b0ef16415602ec4a7681174120fc
+2025-03-29 15:53:38,617 - INFO - Successfully processed image_id: 576a886cb8388a5c115f260d2a1b42a7
+2025-03-29 15:53:43,714 - INFO - Successfully processed image_id: 60b9c1f8ce586952323e70a923667239
+2025-03-29 15:53:47,740 - INFO - Successfully processed image_id: aa88bc11b504405b39f2d24b9c5a5c24
+2025-03-29 15:53:51,053 - INFO - Successfully processed image_id: a9b7e6160f0006416bb0f80d3701add3
+2025-03-29 15:53:55,481 - INFO - Successfully processed image_id: 6d031f88aa5be899a7b292d117d4c837
+2025-03-29 15:54:00,832 - INFO - Successfully processed image_id: 3616ebd25ea3e8498f7a1f0f7a391cfe
+2025-03-29 15:54:04,100 - INFO - Successfully processed image_id: 8bbdfd6a54d220aaa878d2494527994c
+2025-03-29 15:54:09,039 - INFO - Successfully processed image_id: 04bf86506d12239e9ae864b185690268
+2025-03-29 15:54:16,541 - INFO - Successfully processed image_id: 844b3b8cdfd910b82fcbaf807fdbc8fc
+2025-03-29 15:54:21,415 - INFO - Successfully processed image_id: df2ca018bbf03ec1c1bdbb4911d96841
+2025-03-29 15:54:22,418 - ERROR - Image load failed: 62e4f83abb3b9facc3379a65ef97f7ce - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/62e4f83abb3b9facc3379a65ef97f7ce.jpg'
+2025-03-29 15:54:26,098 - INFO - Successfully processed image_id: 1c60f21393b9739d62f53c672ea7a93b
+2025-03-29 15:54:35,988 - INFO - Successfully processed image_id: e49c782e7dac8a9b8c04d45d63440296
+2025-03-29 15:54:42,135 - INFO - Successfully processed image_id: 8c801407635f88a508aef6fb39ec9110
+2025-03-29 15:54:43,138 - ERROR - Image load failed: cde4dda7512b997be30a836fdbc1d75b - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/cde4dda7512b997be30a836fdbc1d75b.jpg'
+2025-03-29 15:54:43,138 - ERROR - Image load failed: 14514b2d9d29f5fef3a049fc4b6db01c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/14514b2d9d29f5fef3a049fc4b6db01c.jpg'
+2025-03-29 15:54:46,825 - INFO - Successfully processed image_id: 2804a0d574f560b7c9e326a1acf311a5
+2025-03-29 15:54:50,422 - INFO - Successfully processed image_id: a4656e3bc81694eb2622e122d9af8c81
+2025-03-29 15:54:54,334 - INFO - Successfully processed image_id: 88d2368a00d97b96069aa24a5b8df5e4
+2025-03-29 15:55:01,464 - INFO - Successfully processed image_id: 323f0c2a6bc85e61e46656ac8fbd6dff
+2025-03-29 15:55:02,468 - ERROR - Image load failed: 1ef9d35cf232f0d758116c6195ef2e6c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1ef9d35cf232f0d758116c6195ef2e6c.jpg'
+2025-03-29 15:55:05,037 - INFO - Successfully processed image_id: f4a4ae1fbc9e3160a752aeea2e8d7c78
+2025-03-29 15:55:09,668 - INFO - Successfully processed image_id: 710119c6635b371e570164fcd5512cd8
+2025-03-29 15:55:14,591 - INFO - Successfully processed image_id: 22648cf90b2d8761eada81ede2baee82
+2025-03-29 15:55:19,690 - INFO - Successfully processed image_id: a38916d4aaf766f0e02faf3a356c9b02
+2025-03-29 15:55:37,914 - INFO - Successfully processed image_id: c931fe7bf80e4f4c258af0aa5720964f
+2025-03-29 15:55:44,379 - INFO - Successfully processed image_id: 5bf5f739d337c31e9eed46bc4c648c8f
+2025-03-29 15:55:45,383 - ERROR - Image load failed: 8cbef53a3a8295b6b7c823cd72916cea - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/8cbef53a3a8295b6b7c823cd72916cea.jpg'
+2025-03-29 15:55:49,471 - INFO - Successfully processed image_id: ea5e06651ec446fe01cb6c0feb5e98ca
+2025-03-29 15:55:54,920 - INFO - Successfully processed image_id: 14d76f5c7eb69de4851b7f11a06bcb3d
+2025-03-29 15:56:00,934 - INFO - Successfully processed image_id: 4f77e179fbae4b0327149212d05098f1
+2025-03-29 15:56:05,541 - INFO - Successfully processed image_id: 3621c7b8dd5e5d3f98696ab44ec825ed
+2025-03-29 15:56:06,545 - ERROR - Image load failed: 2636f7571e8fe8b305a27b1d86ac7adc - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/2636f7571e8fe8b305a27b1d86ac7adc.jpg'
+2025-03-29 15:56:11,064 - INFO - Successfully processed image_id: be4063eaa43e320d97cab5082205d712
+2025-03-29 15:56:15,037 - INFO - Successfully processed image_id: eb2e9eb2d39111dcd84c8de49dbc3019
+2025-03-29 15:56:24,987 - INFO - Successfully processed image_id: 8e9cf2b25fa853bb80ff9832dc5ca43e
+2025-03-29 15:56:25,993 - ERROR - Image load failed: 58deb1da28c47ef7da594094e40b9dfd - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/58deb1da28c47ef7da594094e40b9dfd.jpg'
+2025-03-29 15:56:28,689 - INFO - Successfully processed image_id: 48f244faf66621535d53bfc67c4cb4f1
+2025-03-29 15:56:32,567 - INFO - Successfully processed image_id: 51629b07b2ee93033c7b02160de75bc1
+2025-03-29 15:56:36,012 - INFO - Successfully processed image_id: 4ca10a83aa3e6ff4b2e15e91d020c02a
+2025-03-29 15:56:39,665 - INFO - Successfully processed image_id: 5c4c37b7a16f91fda51c326a09042906
+2025-03-29 15:56:43,112 - INFO - Successfully processed image_id: 7e194137822aa64f049a2c857fcd8885
+2025-03-29 15:56:53,437 - INFO - Successfully processed image_id: 76b8d01f0f5533b4f9477b6a017e010c
+2025-03-29 15:56:58,756 - INFO - Successfully processed image_id: 9e5365e1efda00d0b87fe6a492439601
+2025-03-29 15:57:02,357 - INFO - Successfully processed image_id: 0d0d781545db6b887e29057abb527186
+2025-03-29 15:57:07,573 - INFO - Successfully processed image_id: befad5690e7fb74641875e52c5dd01dc
+2025-03-29 15:57:08,577 - ERROR - Image load failed: a724bf9288633ce11b45a817aef15e61 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/a724bf9288633ce11b45a817aef15e61.jpg'
+2025-03-29 15:57:11,267 - INFO - Successfully processed image_id: 12703859207c39c2b2c9fe89e109e0d0
+2025-03-29 15:57:16,430 - INFO - Successfully processed image_id: 064c3e0253ea4336333291019cfc6d32
+2025-03-29 15:57:37,015 - INFO - Successfully processed image_id: d822f927538165ca1c99783ebb73b201
+2025-03-29 15:57:38,017 - ERROR - Image load failed: c6b361f2c5b9cfed88e871f259317ef9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c6b361f2c5b9cfed88e871f259317ef9.jpg'
+2025-03-29 15:57:43,867 - INFO - Successfully processed image_id: 43ac01f0773da115f57e2459ee08bac0
+2025-03-29 15:57:48,513 - INFO - Successfully processed image_id: c27563b0cf0a7855ec92ae176eb0dab7
+2025-03-29 15:57:53,060 - INFO - Successfully processed image_id: c6299ff67672c57944c5cfe378ec0b2e
+2025-03-29 15:57:54,064 - ERROR - Image load failed: c8bbacbacae54f5b54315a9bccd525e5 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c8bbacbacae54f5b54315a9bccd525e5.jpg'
+2025-03-29 15:57:58,173 - INFO - Successfully processed image_id: 5f9c7807cd86c802801ee9a564944f51
+2025-03-29 15:58:03,332 - INFO - Successfully processed image_id: 6442034472f773ec2f7de381b4b7725a
+2025-03-29 15:58:07,452 - INFO - Successfully processed image_id: ded2c3a77b2010e5e09a7dbe54687dc8
+2025-03-29 15:58:10,643 - INFO - Successfully processed image_id: 433d09e87519622a884e681672e2bb56
+2025-03-29 15:58:15,171 - INFO - Successfully processed image_id: a339674fc7d693279565e8f554d771be
+2025-03-29 15:58:20,969 - INFO - Successfully processed image_id: 4b829e3a3cccf48ce9906e98987d49f7
+2025-03-29 15:58:24,552 - INFO - Successfully processed image_id: ea4a653f57b42136026402df64eaa16c
+2025-03-29 15:58:30,143 - INFO - Successfully processed image_id: 166115c36214d2def87d017655f54fa9
+2025-03-29 15:58:34,095 - INFO - Successfully processed image_id: 86328f9345e00e125d024fa626d704e4
+2025-03-29 15:58:38,483 - INFO - Successfully processed image_id: 47c9e0de4c7c23d57a5281e200d18862
+2025-03-29 15:58:53,594 - INFO - Successfully processed image_id: 7deb66ea65be0a85c6abcce13b0f46a4
+2025-03-29 15:58:57,099 - INFO - Successfully processed image_id: 71efebd415318426e7d9af781dac4fca
+2025-03-29 15:59:01,222 - INFO - Successfully processed image_id: ce5250caddff7030061a7142844fd710
+2025-03-29 15:59:07,802 - INFO - Successfully processed image_id: b7c9f03e763218b36634059e1b6fcf79
+2025-03-29 15:59:17,482 - INFO - Successfully processed image_id: 232d7cc63dd503b2d690176e31d16867
+2025-03-29 15:59:23,952 - INFO - Successfully processed image_id: ddc8f5faa99c7d936bdd137485d2f76c
+2025-03-29 15:59:24,957 - ERROR - Image load failed: 68d019e54d1bb21fde160dd211b61422 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/68d019e54d1bb21fde160dd211b61422.jpg'
+2025-03-29 15:59:24,957 - ERROR - Image load failed: ac65d56ca05d7ef5961af8db28e360b1 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/ac65d56ca05d7ef5961af8db28e360b1.jpg'
+2025-03-29 15:59:27,610 - INFO - Successfully processed image_id: aea2ed709dadab524f8d00faf25667b4
+2025-03-29 15:59:31,057 - INFO - Successfully processed image_id: d59d38347408984552d7a7727d243464
+2025-03-29 15:59:34,569 - INFO - Successfully processed image_id: da6722fc8f58b2867a94936be3942a8f
+2025-03-29 15:59:39,905 - INFO - Successfully processed image_id: 55bb802c6b6c3f19faf99f3dacb5f672
+2025-03-29 15:59:43,360 - INFO - Successfully processed image_id: c371f82810f455cd0ec77bf32a7687b9
+2025-03-29 15:59:47,782 - INFO - Successfully processed image_id: 917b81d2f56caf1ebf7a82e3db8b0a85
+2025-03-29 15:59:52,761 - INFO - Successfully processed image_id: de2caa20d6cbf624ba0944606a299bcf
+2025-03-29 15:59:53,766 - ERROR - Image load failed: 1d2a086e3cc4901d1df4027e0a41ce97 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1d2a086e3cc4901d1df4027e0a41ce97.jpg'
+2025-03-29 15:59:56,024 - INFO - Successfully processed image_id: 1e10fae40cd373ca383f35b9bce3bcda
+2025-03-29 16:00:00,069 - INFO - Successfully processed image_id: e6c0d14848c40f2ccda3da3d87199231
+2025-03-29 16:00:01,072 - ERROR - Image load failed: 1770789b4509a2d7cbe3898b93a4568f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1770789b4509a2d7cbe3898b93a4568f.jpg'
+2025-03-29 16:00:03,547 - INFO - Successfully processed image_id: 966a482f5fe4fbb769d5ce4e44fe5b57
+2025-03-29 16:00:07,670 - INFO - Successfully processed image_id: 3a41b46111e45c37857c6bd8eba05ba2
+2025-03-29 16:00:12,270 - INFO - Successfully processed image_id: db448324550cff7c836c586573533a4b
+2025-03-29 16:00:17,529 - INFO - Successfully processed image_id: 6b021e9f3309314ff09f6362c7e737d1
+2025-03-29 16:00:18,534 - ERROR - Image load failed: 894956d0c8c2d8018777f8ec7404e60f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/894956d0c8c2d8018777f8ec7404e60f.jpg'
+2025-03-29 16:00:21,315 - INFO - Successfully processed image_id: a84378c6ac1fa8407fac80d66b23d1a6
+2025-03-29 16:00:25,477 - INFO - Successfully processed image_id: a48257c347e7026683204e9b3dec5b4c
+2025-03-29 16:00:29,114 - INFO - Successfully processed image_id: 002bf5b5aeb58df2d58cf267f136a7f4
+2025-03-29 16:00:30,116 - ERROR - Image load failed: 940a3cc56c9509f990beb3a340f5910c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/940a3cc56c9509f990beb3a340f5910c.jpg'
+2025-03-29 16:00:32,900 - INFO - Successfully processed image_id: 578f32b8baba01b88451e138d0956941
+2025-03-29 16:00:37,061 - INFO - Successfully processed image_id: e678027e82e806e9738e4ad233afced0
+2025-03-29 16:00:46,559 - INFO - Successfully processed image_id: 1635fa629e851db776ed6f10bb56ee95
+2025-03-29 16:00:56,102 - INFO - Successfully processed image_id: 6fc4ed402725efe2e8cbbebc2c30ab7e
+2025-03-29 16:01:00,171 - INFO - Successfully processed image_id: f22f8b1905034fd51b2505fb8e61dc9e
+2025-03-29 16:01:01,176 - ERROR - Image load failed: 65cdce17ab22f43392dfb422a1586ddc - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/65cdce17ab22f43392dfb422a1586ddc.jpg'
+2025-03-29 16:01:05,029 - INFO - Successfully processed image_id: 63723dbd261aeab4c1484746a53a8bb4
+2025-03-29 16:01:19,411 - INFO - Successfully processed image_id: 5b8614b31d575301544aa6766a7531c6
+2025-03-29 16:01:24,310 - INFO - Successfully processed image_id: b7db44019895c3196610dbe3826c7666
+2025-03-29 16:01:30,961 - INFO - Successfully processed image_id: 0573f53acdc012b0416f2e0dc050a75f
+2025-03-29 16:01:34,896 - INFO - Successfully processed image_id: 3f5d1086c518085235d158679f7a9596
+2025-03-29 16:01:38,959 - INFO - Successfully processed image_id: 00920cf30a6fe3a7bb0a3f01891cfcf8
+2025-03-29 16:01:42,921 - INFO - Successfully processed image_id: 476a26fb0ca4566db9838060849f6d04
+2025-03-29 16:01:46,411 - INFO - Successfully processed image_id: 16d411bc7bb46263390059551c536991
+2025-03-29 16:01:47,416 - ERROR - Image load failed: e60e9824ecf04004258b575a6edae036 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e60e9824ecf04004258b575a6edae036.jpg'
+2025-03-29 16:01:50,428 - INFO - Successfully processed image_id: 328f96d7c397f77aca0fda02915905e3
+2025-03-29 16:01:55,411 - INFO - Successfully processed image_id: 37c53cfc1f4d1ae8ad9d935a5e8bcd8c
+2025-03-29 16:01:59,903 - INFO - Successfully processed image_id: bd57093efc8f36bf4d5f89b86a773eb1
+2025-03-29 16:02:04,589 - INFO - Successfully processed image_id: 8e4afc88726a9649ac918a88484d075b
+2025-03-29 16:02:10,098 - INFO - Successfully processed image_id: 48860cae1f68dbe7e28ad0d01be013c4
+2025-03-29 16:02:15,542 - INFO - Successfully processed image_id: 01e84664c67ca5b14c9e6f8dc190fd65
+2025-03-29 16:02:19,404 - INFO - Successfully processed image_id: 523e3f804229cd0fd464599de8cd9b3a
+2025-03-29 16:02:20,409 - ERROR - Image load failed: 862b590daf6bbb06898c9920a06f1123 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/862b590daf6bbb06898c9920a06f1123.jpg'
+2025-03-29 16:02:20,409 - ERROR - Image load failed: 69ef1d87139d8bdda17cc411ddcec3da - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/69ef1d87139d8bdda17cc411ddcec3da.jpg'
+2025-03-29 16:02:35,341 - INFO - Successfully processed image_id: 9875d8828410d2ce5902672542167435
+2025-03-29 16:02:36,365 - ERROR - Image load failed: 2a138b46a5e4c16e7f5c126c25f0d025 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/2a138b46a5e4c16e7f5c126c25f0d025.jpg'
+2025-03-29 16:02:42,277 - INFO - Successfully processed image_id: 2d1a613dcdbe23d76f974fd65be1afaf
+2025-03-29 16:02:43,281 - ERROR - Image load failed: 3b8d5fc792dd0cca4568089fa542e75f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3b8d5fc792dd0cca4568089fa542e75f.jpg'
+2025-03-29 16:02:45,265 - INFO - Successfully processed image_id: 261907adc395a2b493880642f90391d9
+2025-03-29 16:02:49,755 - INFO - Successfully processed image_id: 12c2f0a000e2c61de9a84a4392b6c123
+2025-03-29 16:02:53,755 - INFO - Successfully processed image_id: 24e36f71b2b25f4eae686e9b543ca2b9
+2025-03-29 16:02:54,760 - ERROR - Image load failed: df607ecb0ac2089422532a35f4f6325d - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/df607ecb0ac2089422532a35f4f6325d.jpg'
+2025-03-29 16:02:58,206 - INFO - Successfully processed image_id: 87cc8e58b918a20c89cb23d8d03d27d8
+2025-03-29 16:03:02,517 - INFO - Successfully processed image_id: f9a522caa170675a9fe93803d8bc9ff4
+2025-03-29 16:03:16,492 - INFO - Successfully processed image_id: 83851bd22b1d1a161bfd42ef631cff67
+2025-03-29 16:03:19,809 - INFO - Successfully processed image_id: 4e14b8989be93cf583c73661c7de584e
+2025-03-29 16:03:20,814 - ERROR - Image load failed: 522cd82053780771def28c4433bb61cb - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/522cd82053780771def28c4433bb61cb.jpg'
+2025-03-29 16:03:25,590 - INFO - Successfully processed image_id: 0571f3e43cb0073d9fd8d792b45c95ca
+2025-03-29 16:03:29,157 - INFO - Successfully processed image_id: 7b219c9239f443bb863287b5bc2d38e8
+2025-03-29 16:03:32,784 - INFO - Successfully processed image_id: 942e6ef480f3596267a927de31942b5d
+2025-03-29 16:03:44,647 - INFO - Successfully processed image_id: c75f88a66dc68bcb6663e189324dcfb7
+2025-03-29 16:03:48,936 - INFO - Successfully processed image_id: 6197dcc3c7e32e04845e1f7a2556c8a0
+2025-03-29 16:03:49,941 - ERROR - Image load failed: 8d552591242864c36b019fd033b7b642 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/8d552591242864c36b019fd033b7b642.jpg'
+2025-03-29 16:03:52,093 - INFO - Successfully processed image_id: 09f6503033be024e5a037676158128b7
+2025-03-29 16:03:57,611 - INFO - Successfully processed image_id: 38d6a3856ada3200dd126529981f3354
+2025-03-29 16:04:01,211 - INFO - Successfully processed image_id: d8651c71b0527e3a1b292964b0e8b9d4
+2025-03-29 16:04:05,647 - INFO - Successfully processed image_id: dc05453336abd10e4227d05e592e2366
+2025-03-29 16:04:08,876 - INFO - Successfully processed image_id: 74c42d61b7dd0d69520178801cd78763
+2025-03-29 16:04:32,947 - ERROR - Failed after 3 attempts: 3ba792ae92eb8e95fbbcbb824d032fda
+2025-03-29 16:04:38,742 - INFO - Successfully processed image_id: 394864210e0c020fa35db893f9cf9c20
+2025-03-29 16:04:43,729 - INFO - Successfully processed image_id: fd21d94cb5cde319d79d8d8046fd13e5
+2025-03-29 16:04:46,830 - INFO - Successfully processed image_id: f974f54d1aa12ccecebaf9527c95c010
+2025-03-29 16:04:47,832 - ERROR - Image load failed: 9564c9569a30dd6344e3759963961ef8 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9564c9569a30dd6344e3759963961ef8.jpg'
+2025-03-29 16:04:51,862 - INFO - Successfully processed image_id: 923c9824d4c247235dcb16777bad6e56
+2025-03-29 16:04:56,027 - INFO - Successfully processed image_id: c646d24e45fab628cdda1a55315ecec0
+2025-03-29 16:04:59,778 - INFO - Successfully processed image_id: e887958c169d7a624cd8888f5ea796bd
+2025-03-29 16:05:03,084 - INFO - Successfully processed image_id: 7c130df69618fd70ffe1c3a0e52bc59d
+2025-03-29 16:05:06,420 - INFO - Successfully processed image_id: eb32819807cb1c37559b12fc4d95a5cd
+2025-03-29 16:05:10,102 - INFO - Successfully processed image_id: 6c9be02b6306d5da6479b54cbb8ed4b1
+2025-03-29 16:05:17,243 - INFO - Successfully processed image_id: 989e7f27ba3aaf4f198c6c226f2f39d6
+2025-03-29 16:05:18,246 - ERROR - Image load failed: 9d87ea32e218d7b61b558f7d5ae180ff - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9d87ea32e218d7b61b558f7d5ae180ff.jpg'
+2025-03-29 16:05:22,466 - INFO - Successfully processed image_id: c64acac783fef226297e22e0f67b6b01
+2025-03-29 16:05:23,469 - ERROR - Image load failed: 54d1fe696da1dbad7469c654cc8e2a8c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/54d1fe696da1dbad7469c654cc8e2a8c.jpg'
+2025-03-29 16:05:23,469 - ERROR - Image load failed: aa4635e191304a4ac1c95f47471aaeb9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/aa4635e191304a4ac1c95f47471aaeb9.jpg'
+2025-03-29 16:05:27,322 - INFO - Successfully processed image_id: 7eee39dd2b2a8c7fc67d318fb65bc4fc
+2025-03-29 16:05:28,327 - ERROR - Image load failed: 78ffcfc2860757aada9d6f988cf565ed - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/78ffcfc2860757aada9d6f988cf565ed.jpg'
+2025-03-29 16:05:31,351 - INFO - Successfully processed image_id: 49de9dfbe61ed28847fe1b9986b1e1ff
+2025-03-29 16:05:35,348 - INFO - Successfully processed image_id: d64fb97d7fa2826bcbbc7fbb8e691808
+2025-03-29 16:05:40,228 - INFO - Successfully processed image_id: 177bf21604273496a949b52cb47ffc3c
+2025-03-29 16:05:44,136 - INFO - Successfully processed image_id: a0ab2b25deccb523c4c5312c2ba2328b
+2025-03-29 16:05:54,055 - INFO - Successfully processed image_id: 75fa448a6e09893e1f3c784e9d8d03a7
+2025-03-29 16:05:58,187 - INFO - Successfully processed image_id: 109cc57106e6d159492516d070acbfcb
+2025-03-29 16:06:02,497 - INFO - Successfully processed image_id: 7058ed7e603c715fb004875d130709bd
+2025-03-29 16:06:06,296 - INFO - Successfully processed image_id: 01d9765b2d7a291adde069be90d432b8
+2025-03-29 16:06:10,193 - INFO - Successfully processed image_id: f08c9c67f9cf1d42577abcc8e7e676eb
+2025-03-29 16:06:14,515 - INFO - Successfully processed image_id: 4153cd46a3027218042dded6d6cbab6a
+2025-03-29 16:06:18,076 - INFO - Successfully processed image_id: 4b253b5cfc044e92a51d1ebf39ff9c5b
+2025-03-29 16:06:22,807 - INFO - Successfully processed image_id: de3a40c17f0401e83d81464a03bfc1c2
+2025-03-29 16:06:27,582 - INFO - Successfully processed image_id: 0010b8a8b1fd99deb245ae0fd6d614aa
+2025-03-29 16:06:32,347 - INFO - Successfully processed image_id: a24375ee663d2b11580594aa769b33f8
+2025-03-29 16:06:35,580 - INFO - Successfully processed image_id: be2a8e05fdc2cdd58bf30cca8a995b9f
+2025-03-29 16:06:39,862 - INFO - Successfully processed image_id: e07b9c41fe8a2e621440c404bcbd2af8
+2025-03-29 16:07:00,522 - INFO - Successfully processed image_id: 07dbf212aedde432ad10c0c25d8f1fd6
+2025-03-29 16:07:03,936 - INFO - Successfully processed image_id: 40df8dae2dcf5c1f1dae0603a6d415fc
+2025-03-29 16:07:08,268 - INFO - Successfully processed image_id: 06d34581a397c8778d1fc3facc889513
+2025-03-29 16:07:09,270 - ERROR - Image load failed: 9b22096679efaf2d4845fb7d64b6f65a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9b22096679efaf2d4845fb7d64b6f65a.jpg'
+2025-03-29 16:07:09,270 - ERROR - Image load failed: 905c6c9ce21a22d922af3dd5a6702591 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/905c6c9ce21a22d922af3dd5a6702591.jpg'
+2025-03-29 16:07:12,515 - INFO - Successfully processed image_id: 30d853a477d64c2185bbc6fddee6835a
+2025-03-29 16:07:17,423 - INFO - Successfully processed image_id: c9c0e25d31dff18a081642778fb0591b
+2025-03-29 16:07:21,492 - INFO - Successfully processed image_id: feb7eb5487facb8a259140662b98ca0c
+2025-03-29 16:07:22,498 - ERROR - Image load failed: cfd1eada95cf6e2e5c1d897eff372db0 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/cfd1eada95cf6e2e5c1d897eff372db0.jpg'
+2025-03-29 16:07:25,479 - INFO - Successfully processed image_id: fb8cafe2e7d6f37b1022d46fad97a964
+2025-03-29 16:07:31,834 - INFO - Successfully processed image_id: c94f3ba2a6256b4a0f8b590e13028e21
+2025-03-29 16:07:32,840 - ERROR - Image load failed: d6ebea04e18d5c9a06fcaecfa799efa7 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/d6ebea04e18d5c9a06fcaecfa799efa7.jpg'
+2025-03-29 16:07:37,127 - INFO - Successfully processed image_id: 42a6afa351364b841ee893570e153f48
+2025-03-29 16:07:41,287 - INFO - Successfully processed image_id: 8ebce73a65e5500c37303bd73686469d
+2025-03-29 16:07:45,261 - INFO - Successfully processed image_id: 301523ffe7810c30dd4efe25a9f61cb5
+2025-03-29 16:07:53,743 - INFO - Successfully processed image_id: 10ec790b934817d90d009ad5f401cb4d
+2025-03-29 16:07:57,875 - INFO - Successfully processed image_id: 220c0cce771374f226a221a10b0f4fbe
+2025-03-29 16:08:02,910 - INFO - Successfully processed image_id: 26b8dd9c815ea081baf351d17080f916
+2025-03-29 16:08:07,379 - INFO - Successfully processed image_id: e9c26771bbeab768b4611f27280b2b67
+2025-03-29 16:08:11,833 - INFO - Successfully processed image_id: 2d7448706f935f49c5f3f81deb60af10
+2025-03-29 16:08:16,978 - INFO - Successfully processed image_id: 25157d73be06dcf850add78ab216140c
+2025-03-29 16:08:38,162 - ERROR - Failed after 3 attempts: e4e376910a49bb1eaa3ed8f7bad0d0a1
+2025-03-29 16:08:41,656 - INFO - Successfully processed image_id: 805fd2b1bc059d35a238b391a2eed0b9
+2025-03-29 16:08:45,850 - INFO - Successfully processed image_id: 8db5be0bc77bd1c0cb6e7adde05de4a7
+2025-03-29 16:08:50,479 - INFO - Successfully processed image_id: 8102399a9df84d1f0168b4eeaac3e9d4
+2025-03-29 16:08:53,402 - INFO - Successfully processed image_id: 903ca4a338419e9f455975e798e25fba
+2025-03-29 16:08:57,530 - INFO - Successfully processed image_id: aa03014385345a24add1eb261dc335d1
+2025-03-29 16:08:58,535 - ERROR - Image load failed: d9513e102f3364d67f9221ca36c12bac - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/d9513e102f3364d67f9221ca36c12bac.jpg'
+2025-03-29 16:08:58,536 - ERROR - Image load failed: 0d841354afe617aabfa03fcb03de0fe6 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/0d841354afe617aabfa03fcb03de0fe6.jpg'
+2025-03-29 16:08:58,536 - ERROR - Image load failed: 8ee32ccd39736ac31b4f69b595627f8b - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/8ee32ccd39736ac31b4f69b595627f8b.jpg'
+2025-03-29 16:09:04,099 - INFO - Successfully processed image_id: c15301a0a73b98ddf76361f08293d1bc
+2025-03-29 16:09:08,727 - INFO - Successfully processed image_id: f1601faae7a8f1203ec586bb76406fa3
+2025-03-29 16:09:12,306 - INFO - Successfully processed image_id: f7042d1c9e4692b096c19c9b36d8ddf3
+2025-03-29 16:09:17,212 - INFO - Successfully processed image_id: 1a4d814d2e971dcb4230bc7e515ce03e
+2025-03-29 16:09:18,215 - ERROR - Image load failed: 79d1dd73b8a9a8668f2ddeb4ee535b43 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/79d1dd73b8a9a8668f2ddeb4ee535b43.jpg'
+2025-03-29 16:09:21,441 - INFO - Successfully processed image_id: 8ed767259feab674c7798fa2c37e75fe
+2025-03-29 16:09:22,464 - ERROR - Image load failed: f92c91e06bb86c03256326807d40dd21 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/f92c91e06bb86c03256326807d40dd21.jpg'
+2025-03-29 16:09:24,613 - INFO - Successfully processed image_id: 60ab632bdb22e0c8126b58d5da1bae59
+2025-03-29 16:09:36,261 - INFO - Successfully processed image_id: f73003fc8f8556008474d0d9d7eb21b2
+2025-03-29 16:09:39,668 - INFO - Successfully processed image_id: a0e0231b35c22c8c92ef3a3f85823989
+2025-03-29 16:09:43,422 - INFO - Successfully processed image_id: cf81188435b89c879b1146d8ba472190
+2025-03-29 16:09:44,425 - ERROR - Image load failed: c3aa164283785eb02f115aa1f8926e13 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c3aa164283785eb02f115aa1f8926e13.jpg'
+2025-03-29 16:09:49,746 - INFO - Successfully processed image_id: fe2fa3da6b3f973586b658ffaaeab517
+2025-03-29 16:09:50,748 - ERROR - Image load failed: 3b4e2e2b563ef23aa0718da13b0c496f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3b4e2e2b563ef23aa0718da13b0c496f.jpg'
+2025-03-29 16:09:50,749 - ERROR - Image load failed: 32320ac061f24de226060bd04bbfdb51 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/32320ac061f24de226060bd04bbfdb51.jpg'
+2025-03-29 16:09:54,060 - INFO - Successfully processed image_id: a1d58f4aa2655e84da39d799282b8bf6
+2025-03-29 16:09:55,063 - ERROR - Image load failed: d0ca3d72f627e3528b197ba6419ec0a4 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/d0ca3d72f627e3528b197ba6419ec0a4.jpg'
+2025-03-29 16:09:57,532 - INFO - Successfully processed image_id: 9ca541e751e12763ba227039d101bac5
+2025-03-29 16:10:00,970 - INFO - Successfully processed image_id: b3c1c662d8c86a4016a562de879440ed
+2025-03-29 16:10:04,976 - INFO - Successfully processed image_id: ed0bf68d2be37580949f5e8ace456c2e
+2025-03-29 16:10:10,425 - INFO - Successfully processed image_id: bd7f56047f7b93c87cb7d1f33135a153
+2025-03-29 16:10:13,333 - INFO - Successfully processed image_id: eb4fd1cb9faf55d966f79c54cb2617f0
+2025-03-29 16:10:23,068 - INFO - Successfully processed image_id: 21d84d42644d244af7440050cd97381e
+2025-03-29 16:10:30,136 - INFO - Successfully processed image_id: 5d180dd417741cbeb43be0e143a1d6cd
+2025-03-29 16:10:34,934 - INFO - Successfully processed image_id: c548c83d70a0b59b3fcf13cb77640c7f
+2025-03-29 16:10:39,852 - INFO - Successfully processed image_id: 45f7781c838ab4b0b3509dce124d84b9
+2025-03-29 16:10:43,785 - INFO - Successfully processed image_id: fe6ff6a522a40b84e255742254bd114c
+2025-03-29 16:10:48,373 - INFO - Successfully processed image_id: 3d54c6eaec6ef7c5c7f7e69db4f4a30f
+2025-03-29 16:10:54,663 - INFO - Successfully processed image_id: 92de14782c7f65bc7f41d2bc96d47c8f
+2025-03-29 16:10:57,722 - INFO - Successfully processed image_id: a8ea87cd1c3ccd6f2b9dfac1ad4d40ae
+2025-03-29 16:11:02,044 - INFO - Successfully processed image_id: 877a299d74feef20e2162b1e5456b0a0
+2025-03-29 16:11:07,178 - INFO - Successfully processed image_id: e5a5c557e6770024c0884a0f33a6ddab
+2025-03-29 16:11:08,185 - ERROR - Image load failed: 1b6a0c13ad82f5bd0027200d3461ae9f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1b6a0c13ad82f5bd0027200d3461ae9f.jpg'
+2025-03-29 16:11:08,185 - ERROR - Image load failed: 65d4174ce00378ad70c86c0717ddf469 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/65d4174ce00378ad70c86c0717ddf469.jpg'
+2025-03-29 16:11:12,535 - INFO - Successfully processed image_id: 8c87cdc8df74fb60c8ffe2828f526eba
+2025-03-29 16:11:16,239 - INFO - Successfully processed image_id: 633f7621c8ac1c3ae02484373644c340
+2025-03-29 16:11:20,726 - INFO - Successfully processed image_id: c96039396ea329cdfdd888589e1459b2
+2025-03-29 16:11:24,637 - INFO - Successfully processed image_id: cce30cbe5952600c13593ebe974033ee
+2025-03-29 16:11:35,954 - INFO - Successfully processed image_id: 82cec6e9978deb1f73f0d8605dd17ff2
+2025-03-29 16:11:40,210 - INFO - Successfully processed image_id: b31f89806fbdafa4c65ea64d1953af27
+2025-03-29 16:11:44,539 - INFO - Successfully processed image_id: 95d0172ccb5cfc37677fbf1ca6b5582c
+2025-03-29 16:11:49,205 - INFO - Successfully processed image_id: 29d6e98a9f575c5e4a6ae4e621a6f631
+2025-03-29 16:11:53,701 - INFO - Successfully processed image_id: ca12ba506188cb3b095040bd6ec52d03
+2025-03-29 16:11:58,290 - INFO - Successfully processed image_id: 19da76a019a341fcfedee8e9a1a35d0e
+2025-03-29 16:11:59,297 - ERROR - Image load failed: fc80ba397369f93aa7f5e68d9b1e34d9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/fc80ba397369f93aa7f5e68d9b1e34d9.jpg'
+2025-03-29 16:12:03,749 - INFO - Successfully processed image_id: 4628183e52c4c8f7aa232c9bd62be3ec
+2025-03-29 16:12:08,339 - INFO - Successfully processed image_id: 56a09601f8b2822c721e25c9a52049cf
+2025-03-29 16:12:17,255 - INFO - Successfully processed image_id: a9a80d57d7d2dabdc9d760f9493f9d76
+2025-03-29 16:12:21,928 - INFO - Successfully processed image_id: 0914ef6e919ed70734eca24c59071363
+2025-03-29 16:12:22,933 - ERROR - Image load failed: 9e8f303230a79a719218c8304ea9707a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9e8f303230a79a719218c8304ea9707a.jpg'
+2025-03-29 16:12:26,494 - INFO - Successfully processed image_id: 8799b8b2c127bc21028cf133be7f8a30
+2025-03-29 16:12:31,033 - INFO - Successfully processed image_id: 6f45aa8c8ef5269d2406eff55a27b845
+2025-03-29 16:12:38,859 - INFO - Successfully processed image_id: 10d43990e1e5942d42f5e1d00c0aee22
+2025-03-29 16:12:59,907 - INFO - Successfully processed image_id: be3dcd09ee58647fac669344df6f6595
+2025-03-29 16:13:04,183 - INFO - Successfully processed image_id: 84e917ef8b98f99f7e932b56863a64a5
+2025-03-29 16:13:08,351 - INFO - Successfully processed image_id: e48691b283af5b491c027a8737d18daf
+2025-03-29 16:13:12,587 - INFO - Successfully processed image_id: a58042126cc4bca8e3c7f3f8229e8b57
+2025-03-29 16:13:20,672 - INFO - Successfully processed image_id: 710c4fb597ddb7bdb8042111a6872cc1
+2025-03-29 16:13:24,746 - INFO - Successfully processed image_id: dc4cdf503fa90f81391caca9cf64c39d
+2025-03-29 16:13:29,666 - INFO - Successfully processed image_id: 0aa17e75389533b1c12525409b69737a
+2025-03-29 16:13:45,797 - INFO - Successfully processed image_id: 14e4dd4c172e29670334a2acf05efead
+2025-03-29 16:13:53,366 - INFO - Successfully processed image_id: 0db52f5ec3f51ae825dcfc3b18047a8d
+2025-03-29 16:13:54,373 - ERROR - Image load failed: e4f971be1296ea94c989f350495aa846 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e4f971be1296ea94c989f350495aa846.jpg'
+2025-03-29 16:13:54,374 - ERROR - Image load failed: 281e599b2a160255dca89e47372c6cc7 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/281e599b2a160255dca89e47372c6cc7.jpg'
+2025-03-29 16:13:59,085 - INFO - Successfully processed image_id: 574c0e057bcb433675a2cf84e1d8a4f7
+2025-03-29 16:14:04,125 - INFO - Successfully processed image_id: e65e206b463981e42398ede2af6ea71b
+2025-03-29 16:14:05,129 - ERROR - Image load failed: bd491952048e947b5bbcf20e9a5ffc61 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/bd491952048e947b5bbcf20e9a5ffc61.jpg'
+2025-03-29 16:14:08,271 - INFO - Successfully processed image_id: 2b5d7c0ffe1b432b78221bb23748779a
+2025-03-29 16:14:13,181 - INFO - Successfully processed image_id: 87e2e7bc62ad7d410799b061d522805c
+2025-03-29 16:14:20,085 - INFO - Successfully processed image_id: 53214510ea67b5d2d4671867606c75ad
+2025-03-29 16:14:24,392 - INFO - Successfully processed image_id: 5b2d596afda3c2d19719f7a2116d750d
+2025-03-29 16:14:29,049 - INFO - Successfully processed image_id: 69975a9a72a7d19b98cab8f126aba6b9
+2025-03-29 16:14:32,992 - INFO - Successfully processed image_id: 75faa7cb298c178b994a61c61a1ae49e
+2025-03-29 16:14:36,617 - INFO - Successfully processed image_id: f1f1e5c0a3f9fa67b29b9c4e75139e20
+2025-03-29 16:14:41,500 - INFO - Successfully processed image_id: 4f28c19762a9cac4817b83d0a5da540b
+2025-03-29 16:14:46,602 - INFO - Successfully processed image_id: 9bfb5d8fabe3f67212281246bd88bf36
+2025-03-29 16:14:50,745 - INFO - Successfully processed image_id: 7984d66c30acc9a267c33262dc02e894
+2025-03-29 16:14:51,752 - ERROR - Image load failed: a49e563f89515e396ec34cd270ed8148 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/a49e563f89515e396ec34cd270ed8148.jpg'
+2025-03-29 16:15:00,859 - INFO - Successfully processed image_id: 282d60a70722cc0e3e3bd4a96679f80f
+2025-03-29 16:15:10,766 - INFO - Successfully processed image_id: ab74b403f1443e426ed733eeef4da7f3
+2025-03-29 16:15:15,988 - INFO - Successfully processed image_id: 9a4cdc0ab84ce80a76b659908da1d1f3
+2025-03-29 16:15:17,001 - ERROR - Image load failed: 87b9e760d5974c0d68c6559e30245cb0 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/87b9e760d5974c0d68c6559e30245cb0.jpg'
+2025-03-29 16:15:19,306 - INFO - Successfully processed image_id: 4a10d95a1d86eeddab31ee4e011f38a5
+2025-03-29 16:15:24,631 - INFO - Successfully processed image_id: 7aed47e3aa14884ed09e88d15ad5a7ac
+2025-03-29 16:15:28,208 - INFO - Successfully processed image_id: 4707e7e3922f0dc53f4735f40d789e04
+2025-03-29 16:15:32,281 - INFO - Successfully processed image_id: d005f2e4c4dc9d32b12def4806e1faf2
+2025-03-29 16:15:33,289 - ERROR - Image load failed: 9066d1052b1a8f75743e0858cd8ff377 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9066d1052b1a8f75743e0858cd8ff377.jpg'
+2025-03-29 16:15:36,138 - INFO - Successfully processed image_id: 116d433424d7697ee3f77b72c0c58a7c
+2025-03-29 16:15:39,901 - INFO - Successfully processed image_id: e1123ceac7e4f9af0b90962db03ae60a
+2025-03-29 16:15:43,423 - INFO - Successfully processed image_id: 23a64d267fd9161d891b1b7a87403281
+2025-03-29 16:15:44,430 - ERROR - Image load failed: cce5f5aa8abbb25d08e0b96bc0e95dda - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/cce5f5aa8abbb25d08e0b96bc0e95dda.jpg'
+2025-03-29 16:15:46,937 - INFO - Successfully processed image_id: c67bea901aae47e9a4fde4546e1aa33c
+2025-03-29 16:15:52,021 - INFO - Successfully processed image_id: 3421d60fe8f3a0fc1e844ca2b0a9d540
+2025-03-29 16:15:53,024 - ERROR - Image load failed: 2333b62be819be3d5a4ac02d9706affa - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/2333b62be819be3d5a4ac02d9706affa.jpg'
+2025-03-29 16:15:56,466 - INFO - Successfully processed image_id: 168a46f84591f4cf6b2745945021ce76
+2025-03-29 16:16:00,719 - INFO - Successfully processed image_id: 95749bc0494ae3db243cf6acfe75a9d3
+2025-03-29 16:16:04,227 - INFO - Successfully processed image_id: b716dcdfeef56f07b0964b3acd9586f5
+2025-03-29 16:16:08,400 - INFO - Successfully processed image_id: 091af1e75c11c3c8012c50802a08506f
+2025-03-29 16:16:46,423 - INFO - Successfully processed image_id: 15b25fddc159f1bf52843eb3e8ff2712
+2025-03-29 16:16:52,068 - INFO - Successfully processed image_id: afac88ff712ac4b1fc03be759ae6b49d
+2025-03-29 16:16:53,075 - ERROR - Image load failed: a3fb93e3c4216ed2291a33ce7646e806 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/a3fb93e3c4216ed2291a33ce7646e806.jpg'
+2025-03-29 16:16:56,228 - INFO - Successfully processed image_id: f2e9bebf8b834b040a8ab3eb7d27706a
+2025-03-29 16:16:57,239 - ERROR - Image load failed: 86a910eac492c2232969e225917b3738 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/86a910eac492c2232969e225917b3738.jpg'
+2025-03-29 16:16:59,986 - INFO - Successfully processed image_id: 42e55e00a4fdaf58d036772cf147a842
+2025-03-29 16:17:04,700 - INFO - Successfully processed image_id: e63c665e46f86abdff97ddb3f3f8a848
+2025-03-29 16:17:09,328 - INFO - Successfully processed image_id: db1c9732b39bd0277227316fae1d2eab
+2025-03-29 16:17:13,176 - INFO - Successfully processed image_id: 21c8d932afe28e7373bf9c08edabeda9
+2025-03-29 16:17:20,832 - INFO - Successfully processed image_id: 405928d4f98967e6c8aa69928c385a6c
+2025-03-29 16:17:27,089 - INFO - Successfully processed image_id: 42f8609a757dfe5dd0611454887df649
+2025-03-29 16:17:31,547 - INFO - Successfully processed image_id: 9ab324be2deabb9ce3da7b23d9fedb8f
+2025-03-29 16:17:37,344 - INFO - Successfully processed image_id: 26f371161c1032668c292254743101a9
+2025-03-29 16:17:38,352 - ERROR - Image load failed: 3e785fc9c8cfd46e9cd68873916a83f8 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3e785fc9c8cfd46e9cd68873916a83f8.jpg'
+2025-03-29 16:17:41,074 - INFO - Successfully processed image_id: 4675bbc8400cc181dd92766949dfae85
+2025-03-29 16:17:44,264 - INFO - Successfully processed image_id: 3b6800e13123f83478d4f08ee68250d0
+2025-03-29 16:17:45,276 - ERROR - Image load failed: 5d7726aab8369fd164ed3c1ad4293a8e - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/5d7726aab8369fd164ed3c1ad4293a8e.jpg'
+2025-03-29 16:17:48,365 - INFO - Successfully processed image_id: 3cdcb98b42c236c25393c3e2d37ffd31
+2025-03-29 16:17:52,752 - INFO - Successfully processed image_id: 825e413cf8f6e433a99d0bbced0d08a7
+2025-03-29 16:17:57,360 - INFO - Successfully processed image_id: 0c36a4596271ddec0211de789a78f8e1
+2025-03-29 16:18:01,226 - INFO - Successfully processed image_id: 67392cc5e6b609e22d00757fa81c0e43
+2025-03-29 16:18:05,963 - INFO - Successfully processed image_id: 53c11720ddcb764fa3aea396311163da
+2025-03-29 16:18:15,399 - INFO - Successfully processed image_id: 0c66d3efaf4b75a4395acb770e55e0ca
+2025-03-29 16:18:21,539 - INFO - Successfully processed image_id: c5718a7e1a80deded50babd69b9d43f3
+2025-03-29 16:18:26,036 - INFO - Successfully processed image_id: 3c56ac4842ba5cdca4e66c1fa2a6a392
+2025-03-29 16:18:29,910 - INFO - Successfully processed image_id: ccf79b22ce11a9e5cc6f0fd835c40237
+2025-03-29 16:18:35,560 - INFO - Successfully processed image_id: 412a34d8ac0c81d42a339b3a76aea688
+2025-03-29 16:18:40,399 - INFO - Successfully processed image_id: 41173c6e7835aabd59d1a7ee28550b60
+2025-03-29 16:18:44,470 - INFO - Successfully processed image_id: 49ba26ffc9650091b8e66d55f1e2b44b
+2025-03-29 16:18:54,459 - INFO - Successfully processed image_id: 0dcbbb5a2c1f35fb6bcfc346ced34e3e
+2025-03-29 16:18:55,462 - ERROR - Image load failed: 9f1721487c367c409e2238a7f4976fe1 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9f1721487c367c409e2238a7f4976fe1.jpg'
+2025-03-29 16:19:01,088 - INFO - Successfully processed image_id: 4f49a464951831117bd645282a2658ff
+2025-03-29 16:19:06,152 - INFO - Successfully processed image_id: 130beb544d160a382e16823a34b82396
+2025-03-29 16:19:07,161 - ERROR - Image load failed: 0a501225d1c898cb83dfdd429a984d7b - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/0a501225d1c898cb83dfdd429a984d7b.jpg'
+2025-03-29 16:19:21,177 - INFO - Successfully processed image_id: 115cd16c505a4bb6377a01377f47869d
+2025-03-29 16:19:26,046 - INFO - Successfully processed image_id: 606cf2e329f6f369b4717c8eb2d1a9d3
+2025-03-29 16:19:29,511 - INFO - Successfully processed image_id: f0547265d7312973d00c13287de5682f
+2025-03-29 16:19:30,519 - ERROR - Image load failed: 78031fc518371b67170defa89e203b31 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/78031fc518371b67170defa89e203b31.jpg'
+2025-03-29 16:19:33,751 - INFO - Successfully processed image_id: 30e071098234ae637c5abce2b46e5ad5
+2025-03-29 16:19:55,423 - INFO - Successfully processed image_id: 567f75f9589ad8b3c1d90e85a2d25031
+2025-03-29 16:19:59,388 - INFO - Successfully processed image_id: 447ddddbc8f88ea2b512b5a62efd1419
+2025-03-29 16:20:04,148 - INFO - Successfully processed image_id: ed1e261aa8a6bccaa71c1d2b7c156179
+2025-03-29 16:20:05,156 - ERROR - Image load failed: 67bd6526a33ab3acc20c3ecea9a4ad0b - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/67bd6526a33ab3acc20c3ecea9a4ad0b.jpg'
+2025-03-29 16:20:07,531 - INFO - Successfully processed image_id: 8fc8aa0eb9c04c45ac6347b5e19887df
+2025-03-29 16:20:12,413 - INFO - Successfully processed image_id: 1482a944019e5953ba9cfbb5b5760828
+2025-03-29 16:20:17,280 - INFO - Successfully processed image_id: 3765047453dcf1fdef18de3df10eb72b
+2025-03-29 16:20:21,193 - INFO - Successfully processed image_id: f025daa610c2cf9be19da89029344c6b
+2025-03-29 16:20:22,202 - ERROR - Image load failed: 11bb9b1d7e23349fd618590927870770 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/11bb9b1d7e23349fd618590927870770.jpg'
+2025-03-29 16:20:26,618 - INFO - Successfully processed image_id: f94c9a869071a48288260137b1b17a26
+2025-03-29 16:20:30,559 - INFO - Successfully processed image_id: 63ba0672b480c798da6b842c90c5c7ea
+2025-03-29 16:20:34,278 - INFO - Successfully processed image_id: 9851b389a150295354eeb0f5b69601a5
+2025-03-29 16:20:35,287 - ERROR - Image load failed: 845163d2a66f038f903997ead7af4b21 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/845163d2a66f038f903997ead7af4b21.jpg'
+2025-03-29 16:20:39,385 - INFO - Successfully processed image_id: c2beb1162ca33e659ed5fc5848141bc6
+2025-03-29 16:20:40,396 - ERROR - Image load failed: f7e725757e19cae3e1648251af06d7d6 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/f7e725757e19cae3e1648251af06d7d6.jpg'
+2025-03-29 16:20:42,542 - INFO - Successfully processed image_id: 9dddb9dac2e9f81ccdc038309ebc9687
+2025-03-29 16:20:47,979 - INFO - Successfully processed image_id: 343fcb03b309760087ef237cbb735db6
+2025-03-29 16:20:52,512 - INFO - Successfully processed image_id: ce3e784f8deac1c60e014c812cd2d9a4
+2025-03-29 16:21:06,831 - INFO - Successfully processed image_id: a8fcd17457e9819b983d7b79ee49067c
+2025-03-29 16:21:11,218 - INFO - Successfully processed image_id: 3def95a60d9870251b37bf093f84afe8
+2025-03-29 16:21:15,903 - INFO - Successfully processed image_id: 18a7574daee16647c910b8b54b8f13bc
+2025-03-29 16:21:20,042 - INFO - Successfully processed image_id: a75265249f21aa344853af43d3487ec2
+2025-03-29 16:21:23,062 - INFO - Successfully processed image_id: 3cd3c6689d8e35ab9ec63ff355f3a1c9
+2025-03-29 16:21:28,023 - INFO - Successfully processed image_id: e6ca71d80380454ae3192c613f929d32
+2025-03-29 16:21:31,540 - INFO - Successfully processed image_id: a1374804474931ed3139fce47a17cbb1
+2025-03-29 16:21:36,335 - INFO - Successfully processed image_id: edecc6ab7ee2b5eff398be3cb496e909
+2025-03-29 16:21:37,343 - ERROR - Image load failed: 57eb4a9ec466900480bff93f5895b551 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/57eb4a9ec466900480bff93f5895b551.jpg'
+2025-03-29 16:21:40,605 - INFO - Successfully processed image_id: 841c697fde7c471e77267cb4063d8da1
+2025-03-29 16:21:45,068 - INFO - Successfully processed image_id: 93b950760f1417a294ee9918afec4463
+2025-03-29 16:21:48,600 - INFO - Successfully processed image_id: 981b0652a31685ff904679f96191f429
+2025-03-29 16:21:52,046 - INFO - Successfully processed image_id: 385e6271db67737f5666e2447e93a419
+2025-03-29 16:21:56,470 - INFO - Successfully processed image_id: 6de7b3607c8fa9f70b168be0ecb2de4d
+2025-03-29 16:22:01,024 - INFO - Successfully processed image_id: 37d8b5c08607fa8d371a00d1d2c09380
+2025-03-29 16:22:05,168 - INFO - Successfully processed image_id: 0b6d51c760fbf4954af070ac068c6369
+2025-03-29 16:22:08,893 - INFO - Successfully processed image_id: 9bdf2bbd4ff4f286dbd4f43eb46f21ae
+2025-03-29 16:22:14,152 - INFO - Successfully processed image_id: 61d24b3a20f3d2be7331c1512b64676c
+2025-03-29 16:22:18,265 - INFO - Successfully processed image_id: 9fb37eba50d6d81c1bcd3e397cefabe7
+2025-03-29 16:22:23,090 - INFO - Successfully processed image_id: 49563d84e077cc0c83ab6c8245eb1151
+2025-03-29 16:22:30,408 - INFO - Successfully processed image_id: 659af4735eae9c519f238fe85bc6317b
+2025-03-29 16:22:36,183 - INFO - Successfully processed image_id: 123e387e0440f87a34a5749f52a76fe1
+2025-03-29 16:22:40,722 - INFO - Successfully processed image_id: fdbe1b84d6b94854e65050f6e855ce86
+2025-03-29 16:22:41,728 - ERROR - Image load failed: da99fa32367c9d739d7207b066e0dc0c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/da99fa32367c9d739d7207b066e0dc0c.jpg'
+2025-03-29 16:22:45,315 - INFO - Successfully processed image_id: 6ab0b5f9533e566d26d6449fb157dbad
+2025-03-29 16:22:49,218 - INFO - Successfully processed image_id: 6c083c9f76a06ea1d1871e0352916bc3
+2025-03-29 16:22:50,223 - ERROR - Image load failed: cefbfb45d98146c1f7a11f92818e5aa8 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/cefbfb45d98146c1f7a11f92818e5aa8.jpg'
+2025-03-29 16:22:53,327 - INFO - Successfully processed image_id: 513f66a28fb2e9f651d96ca60dd23821
+2025-03-29 16:22:54,332 - ERROR - Image load failed: 136bf4d221a37d0fadebd571077146ee - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/136bf4d221a37d0fadebd571077146ee.jpg'
+2025-03-29 16:22:59,499 - INFO - Successfully processed image_id: 07fec348883d8b4e460f4cfbe51de914
+2025-03-29 16:23:04,631 - INFO - Successfully processed image_id: b24ff29b4289abe6c8ae01aa50fef52a
+2025-03-29 16:23:09,805 - INFO - Successfully processed image_id: 55f88e97f8249696c83c067ffdbb17be
+2025-03-29 16:23:14,056 - INFO - Successfully processed image_id: 1f71d8b200968efaa2ad4309da3e74f3
+2025-03-29 16:23:18,997 - INFO - Successfully processed image_id: c7486066247d5219cca3be4085bdeaff
+2025-03-29 16:23:20,007 - ERROR - Image load failed: ca0e277d04e7cb70bae0bb4781108413 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/ca0e277d04e7cb70bae0bb4781108413.jpg'
+2025-03-29 16:23:23,272 - INFO - Successfully processed image_id: 322d9ec806e1d912d18a33879eb8984e
+2025-03-29 16:23:24,283 - ERROR - Image load failed: 7272733558e6db51546bf3e5b0500301 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/7272733558e6db51546bf3e5b0500301.jpg'
+2025-03-29 16:23:27,986 - INFO - Successfully processed image_id: abcff00cb8ecb3afb286f697fac4f0ea
+2025-03-29 16:23:33,432 - INFO - Successfully processed image_id: c9e20aa884576127665a0673694fff59
+2025-03-29 16:23:37,560 - INFO - Successfully processed image_id: 428c27de24f871b99d5d6db8632a5617
+2025-03-29 16:23:42,822 - INFO - Successfully processed image_id: c21e6ca7f493e600278f43f123295b79
+2025-03-29 16:23:46,430 - INFO - Successfully processed image_id: 797412081b120609d902b4966fa435b7
+2025-03-29 16:23:47,440 - ERROR - Image load failed: 1045290ec87956269afb0ad28e0e3cf9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1045290ec87956269afb0ad28e0e3cf9.jpg'
+2025-03-29 16:23:50,469 - INFO - Successfully processed image_id: 1ff9725a7dd74f4eed1ec0f319c087e8
+2025-03-29 16:23:55,406 - INFO - Successfully processed image_id: 4704596b4b286735af50219014085232
+2025-03-29 16:23:58,563 - INFO - Successfully processed image_id: 542039d50f55430d75636ababb13a79b
+2025-03-29 16:24:05,120 - INFO - Successfully processed image_id: 60ac15ca7e3b1440816a1297f5c47f61
+2025-03-29 16:24:09,539 - INFO - Successfully processed image_id: b74074bc9474d137217d1857d34c23ac
+2025-03-29 16:24:13,855 - INFO - Successfully processed image_id: 3b123e6faf7e6bf58518d5e92200b021
+2025-03-29 16:24:14,864 - ERROR - Image load failed: 71e9c607b99d04970adccd44635892b9 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/71e9c607b99d04970adccd44635892b9.jpg'
+2025-03-29 16:24:21,133 - INFO - Successfully processed image_id: 66eee6a4e853638e5025ecbbbce77604
+2025-03-29 16:24:24,781 - INFO - Successfully processed image_id: 73de450e1a86ecea4f968fd3449be0b6
+2025-03-29 16:24:29,508 - INFO - Successfully processed image_id: f9f780828e59a0fc09c4281f145be026
+2025-03-29 16:24:33,454 - INFO - Successfully processed image_id: 0e5bbefcfa89356a3764d6df850bf868
+2025-03-29 16:24:34,464 - ERROR - Image load failed: 6ca44d241109859bd6fab54a284b1c6d - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/6ca44d241109859bd6fab54a284b1c6d.jpg'
+2025-03-29 16:24:39,709 - INFO - Successfully processed image_id: 925490576a11e1b28334b4e2f607be03
+2025-03-29 16:24:44,188 - INFO - Successfully processed image_id: bb20741c411dab59629fd0d5868654a7
+2025-03-29 16:24:48,473 - INFO - Successfully processed image_id: 66569565a67b71e686a140d252354d6b
+2025-03-29 16:24:49,478 - ERROR - Image load failed: 63360a4ce0fb2cb5b5b3656392cd705a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/63360a4ce0fb2cb5b5b3656392cd705a.jpg'
+2025-03-29 16:24:55,985 - INFO - Successfully processed image_id: 5379a9a62ba71f1fba59967cd5c248c4
+2025-03-29 16:25:00,506 - INFO - Successfully processed image_id: 9148e8527596685bbffb8c30db5e17c3
+2025-03-29 16:25:09,547 - INFO - Successfully processed image_id: 158d728eb2a7b031e8e88700ed200064
+2025-03-29 16:25:25,131 - INFO - Successfully processed image_id: b41bc6364202e0b614d488c3e85d6429
+2025-03-29 16:25:30,028 - INFO - Successfully processed image_id: d08bde7f4ae3bddcea5c97a20c62f26a
+2025-03-29 16:25:36,391 - INFO - Successfully processed image_id: 9235e497226d05f945559f46640efe50
+2025-03-29 16:25:41,859 - INFO - Successfully processed image_id: e5a0c50519af4ac7c8382a82d38a1a61
+2025-03-29 16:25:42,862 - ERROR - Image load failed: 8599c00d8b9cada47f7c68362b270309 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/8599c00d8b9cada47f7c68362b270309.jpg'
+2025-03-29 16:25:45,890 - INFO - Successfully processed image_id: 79348289ee74fdabb940d3ff26380258
+2025-03-29 16:25:49,486 - INFO - Successfully processed image_id: a421eac4c91fe703b4884ecbb9266144
+2025-03-29 16:25:54,419 - INFO - Successfully processed image_id: 9fa4906a1d68c0033805c502a2972562
+2025-03-29 16:26:00,613 - INFO - Successfully processed image_id: 22aa12cb90354fcd53f0f7702d0d837a
+2025-03-29 16:26:05,282 - INFO - Successfully processed image_id: e69d32ee382d3be3c63d0208b4634b38
+2025-03-29 16:26:11,350 - INFO - Successfully processed image_id: 9cd60e714e643471fe76bc2825850f1b
+2025-03-29 16:26:16,151 - INFO - Successfully processed image_id: c622f195fa22baf9501edfc0902acc77
+2025-03-29 16:26:20,387 - INFO - Successfully processed image_id: e9293b38298c17ca3de49b0bb44b83a3
+2025-03-29 16:26:26,197 - INFO - Successfully processed image_id: f805546a17e7f38852ed1ffde7febba0
+2025-03-29 16:26:27,203 - ERROR - Image load failed: 6eb668f60b181765d97a6a0f16dec937 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/6eb668f60b181765d97a6a0f16dec937.jpg'
+2025-03-29 16:26:30,466 - INFO - Successfully processed image_id: 9f886be13f6dadd41efb713f777f7211
+2025-03-29 16:26:33,470 - INFO - Successfully processed image_id: 6876e14aabbc16e1c7deeff5dd0a4354
+2025-03-29 16:26:38,174 - INFO - Successfully processed image_id: bec9e163d43e613667d6f37d18b03183
+2025-03-29 16:26:42,565 - INFO - Successfully processed image_id: 51288489df2bdcdc1c4f789c84ea7841
+2025-03-29 16:26:43,572 - ERROR - Image load failed: 54f7bfbc34c4a4c433be53cafd24c400 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/54f7bfbc34c4a4c433be53cafd24c400.jpg'
+2025-03-29 16:26:46,148 - INFO - Successfully processed image_id: ed79dd8085c93777531580647b644c4b
+2025-03-29 16:26:47,156 - ERROR - Image load failed: c0cbe696f0150cb137b9ba3c051d62af - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c0cbe696f0150cb137b9ba3c051d62af.jpg'
+2025-03-29 16:26:52,557 - INFO - Successfully processed image_id: a316903619ed3ceb0e3e95335be15254
+2025-03-29 16:26:56,494 - INFO - Successfully processed image_id: 4eab728d1a160dbc73048066aaa72c51
+2025-03-29 16:26:59,587 - INFO - Successfully processed image_id: 7b06d64326341c5be0a872c90638560b
+2025-03-29 16:27:03,051 - INFO - Successfully processed image_id: b0486a5d727418c7373d03de22936fde
+2025-03-29 16:27:04,057 - ERROR - Image load failed: 3bb16efadf5e5ace092f7f750d7dafb6 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3bb16efadf5e5ace092f7f750d7dafb6.jpg'
+2025-03-29 16:27:07,925 - INFO - Successfully processed image_id: fea5f0da18e8b48ba10b4aac34dd9f69
+2025-03-29 16:27:11,392 - INFO - Successfully processed image_id: f70633effade8a400b56979db1af4fd5
+2025-03-29 16:27:17,064 - INFO - Successfully processed image_id: 8938f1e19b9645a20d77ff79dfe7d8da
+2025-03-29 16:27:22,243 - INFO - Successfully processed image_id: e6f3844a74e3e480665f4dc5347fe8df
+2025-03-29 16:27:31,684 - INFO - Successfully processed image_id: 13b16082a294a273fa127edf9988b646
+2025-03-29 16:27:36,033 - INFO - Successfully processed image_id: a85a0885745f0b2e2b2d5f738ad02aa2
+2025-03-29 16:27:37,040 - ERROR - Image load failed: c398c98d42577a33915cf4511a2cdf87 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/c398c98d42577a33915cf4511a2cdf87.jpg'
+2025-03-29 16:27:40,006 - INFO - Successfully processed image_id: ca7aa5477a8058d28e3be88985df61bb
+2025-03-29 16:27:43,713 - INFO - Successfully processed image_id: 13ff45e743a20cbe3c7f7b551e6a78f0
+2025-03-29 16:27:47,238 - INFO - Successfully processed image_id: 72393a12cd9729f1cf7d405dfdffc0a1
+2025-03-29 16:27:51,874 - INFO - Successfully processed image_id: 48ab81575d77313c832f5d58e1ed0092
+2025-03-29 16:27:52,880 - ERROR - Image load failed: 7a3f4ec802ea7efcb25bd8b4a8c57a60 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/7a3f4ec802ea7efcb25bd8b4a8c57a60.jpg'
+2025-03-29 16:27:56,263 - INFO - Successfully processed image_id: 42f030f3d8ba635120fcb26d871ea551
+2025-03-29 16:28:00,612 - INFO - Successfully processed image_id: 531ab946a4aff9336ba2dc6070a49de1
+2025-03-29 16:28:06,754 - INFO - Successfully processed image_id: 34821db6b1b52eab52fc356d500c7e02
+2025-03-29 16:28:11,086 - INFO - Successfully processed image_id: d4ae4221905685f7af0bea22cc397377
+2025-03-29 16:28:15,328 - INFO - Successfully processed image_id: eb9b91da6dce6500e88560a4bff551db
+2025-03-29 16:28:19,572 - INFO - Successfully processed image_id: 13f78e6773f247b3a629f1a4256f9340
+2025-03-29 16:28:25,101 - INFO - Successfully processed image_id: 04d867850acf9b901a5032cbfd0316fb
+2025-03-29 16:28:31,266 - INFO - Successfully processed image_id: 96b94bf8f1af61d44de84a929cf7adb4
+2025-03-29 16:28:35,040 - INFO - Successfully processed image_id: 9283a6e9ca380a717f2e08b69c1ff15a
+2025-03-29 16:28:36,046 - ERROR - Image load failed: 5fc7d3420457960527eb12ab54acb991 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/5fc7d3420457960527eb12ab54acb991.jpg'
+2025-03-29 16:28:40,148 - INFO - Successfully processed image_id: e215dd03538fbcdb08e4da6292267145
+2025-03-29 16:28:44,673 - INFO - Successfully processed image_id: 44afc464cfaf4b68cbaf72fe21c01dfd
+2025-03-29 16:28:48,683 - INFO - Successfully processed image_id: d9660fefc335d547484fdf510e41ab95
+2025-03-29 16:28:52,042 - INFO - Successfully processed image_id: 9a40b415c42b9f5f281aa074dc7e8e2f
+2025-03-29 16:28:59,210 - INFO - Successfully processed image_id: f24f022d0663ede52136e9eaeb268270
+2025-03-29 16:29:04,644 - INFO - Successfully processed image_id: ba6041260e3677fde5b2e3d0245f4407
+2025-03-29 16:29:08,763 - INFO - Successfully processed image_id: 51c6bcb4ae040dd71cae7a729ddbb42b
+2025-03-29 16:29:14,145 - INFO - Successfully processed image_id: 2996da7a9a06d5f05ac1b02402882205
+2025-03-29 16:29:17,570 - INFO - Successfully processed image_id: 114e3438bd0cdd32ba2bcafceafab38a
+2025-03-29 16:29:22,352 - INFO - Successfully processed image_id: 4b06d70e2d0ad28b4542de9eb943c20f
+2025-03-29 16:29:29,185 - INFO - Successfully processed image_id: 53d75f3d2c462b3dee4b749c46b4237e
+2025-03-29 16:29:30,190 - INFO - 
+========================================
+Completed processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:30:44,617 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:30:48,085 - INFO - Successfully processed image_id: 4980cb8aba5df877151d60f104221e6b
+2025-03-29 16:30:53,390 - INFO - Successfully processed image_id: 171dd7854c8c32c67ca754c472159369
+2025-03-29 16:30:56,872 - INFO - Successfully processed image_id: a55982d82da87d4cef267392252349ca
+2025-03-29 16:31:01,742 - INFO - Successfully processed image_id: eeb204b8e263c65bd5124de84050ad48
+2025-03-29 16:31:06,572 - INFO - Successfully processed image_id: db33aed0dcf3c236612c5a1130d0cc67
+2025-03-29 16:31:11,750 - INFO - Successfully processed image_id: b6bcbf7f6817b87fdfe550412c6e526c
+2025-03-29 16:31:12,757 - ERROR - Image load failed: 3b8d5fc792dd0cca4568089fa542e75f - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3b8d5fc792dd0cca4568089fa542e75f.jpg'
+2025-03-29 16:31:15,373 - INFO - Successfully processed image_id: 11c48908a403421a71611f3d461af9b4
+2025-03-29 16:31:20,340 - INFO - Successfully processed image_id: c6daf7c55f5be5ed83f1d88dc51181c6
+2025-03-29 16:31:24,586 - INFO - Successfully processed image_id: 41a05b6ff1e45f1ce736febcc501e48f
+2025-03-29 16:31:29,021 - INFO - Successfully processed image_id: e0f2bbc3f528320fb844d7a7542f8210
+2025-03-29 16:31:30,028 - ERROR - Image load failed: 69ca7c91812d88dba43bc7e31f79da11 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/69ca7c91812d88dba43bc7e31f79da11.jpg'
+2025-03-29 16:31:34,166 - INFO - Successfully processed image_id: 1f9bb8e3fadc479c6321b0ff06593f4e
+2025-03-29 16:31:35,172 - ERROR - Image load failed: 1280a6a14f9f994828dc678815756c7a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/1280a6a14f9f994828dc678815756c7a.jpg'
+2025-03-29 16:33:33,762 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:33:33,771 - ERROR - Image load failed: 8f8fc80671c3991f7cff885291bd816a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/8f8fc80671c3991f7cff885291bd816a.jpg'
+2025-03-29 16:33:37,401 - INFO - Successfully processed image_id: 9a114d1dddf11b00672f54a490e414b2
+2025-03-29 16:33:40,965 - INFO - Successfully processed image_id: fc39775b38e4fee219abe9276bc7d686
+2025-03-29 16:33:41,972 - ERROR - Image load failed: fa807c27d7da7e20b139beec3b7158df - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/fa807c27d7da7e20b139beec3b7158df.jpg'
+2025-03-29 16:33:45,145 - INFO - Successfully processed image_id: d72da4e68b6c30d3b38fa816f9942b47
+2025-03-29 16:33:50,000 - INFO - Successfully processed image_id: f12969627a8b00ff79a16a4ed8cf376d
+2025-03-29 16:33:56,851 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:34:04,374 - INFO - Successfully processed image_id: 7adb6bba4f5640a5a27dd8a95cdac280
+2025-03-29 16:34:08,014 - INFO - Successfully processed image_id: 39662ad4868dca1bc565f8fbefcec581
+2025-03-29 16:34:13,964 - INFO - Successfully processed image_id: 13c73d2d931673f035695a2944f96592
+2025-03-29 16:34:17,785 - INFO - Successfully processed image_id: 13de4104a1cf981ec2a24d16e1c8c076
+2025-03-29 16:34:21,279 - INFO - Successfully processed image_id: 5f3d733eab273c12bf7b068e36c65cf1
+2025-03-29 16:34:27,075 - INFO - Successfully processed image_id: 000795323dee50d3214f5dd7be91a857
+2025-03-29 16:34:30,931 - INFO - Successfully processed image_id: 6420586f82f3f61afa328dc6a0a51f9e
+2025-03-29 16:34:38,677 - INFO - Successfully processed image_id: 6cd3ebabcccd025c3cd64bdf7bf0b02b
+2025-03-29 16:34:43,492 - INFO - Successfully processed image_id: 5c4ece4ed76db2bb1edf745e0dfd0152
+2025-03-29 16:34:49,832 - INFO - Successfully processed image_id: b4d3fb9c41a741c545d43303586d8ed0
+2025-03-29 16:34:50,840 - ERROR - Image load failed: 094c3094bb40e84c941e28eb59f46b30 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/094c3094bb40e84c941e28eb59f46b30.jpg'
+2025-03-29 16:34:56,263 - INFO - Successfully processed image_id: 0ca2359cc41829dd2d2f611980088ca8
+2025-03-29 16:34:59,818 - INFO - Successfully processed image_id: 48c38c274fc6ef112680dfef06e68521
+2025-03-29 16:35:04,917 - INFO - Successfully processed image_id: 21094fd2457d1a0fc1b8e9e07456c15d
+2025-03-29 16:35:20,710 - INFO - Successfully processed image_id: 6355dc1a1ea34468f64edc8cdcc18ccb
+2025-03-29 16:35:24,570 - INFO - Successfully processed image_id: 547ad606597f2aa8e53a7018527978f3
+2025-03-29 16:35:28,949 - INFO - Successfully processed image_id: ced1b5c56ac4dfe0a0ad7a9006e51d3d
+2025-03-29 16:35:29,956 - ERROR - Image load failed: 09bf899ed00ca1fedd4435a48b512a25 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/09bf899ed00ca1fedd4435a48b512a25.jpg'
+2025-03-29 16:35:32,635 - INFO - Successfully processed image_id: 667d1e31079dd80caa77af930ea4992d
+2025-03-29 16:35:37,341 - INFO - Successfully processed image_id: f972698ba14ce3a1a4aee81340374d9a
+2025-03-29 16:35:45,973 - INFO - Successfully processed image_id: d2081c5ce62455b776681c90b38721fb
+2025-03-29 16:35:49,879 - INFO - Successfully processed image_id: 2a1f536dfb52175076c6aeb890dbaa7f
+2025-03-29 16:35:59,094 - INFO - Successfully processed image_id: 3df84b7d2376ae4e5cf8e4c77bded54a
+2025-03-29 16:36:00,101 - ERROR - Image load failed: 744dab69dd91cafb4db3aee84281ac3e - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/744dab69dd91cafb4db3aee84281ac3e.jpg'
+2025-03-29 16:36:04,488 - INFO - Successfully processed image_id: d02b51110cb0cd925fbcb14e206cfedd
+2025-03-29 16:36:08,476 - INFO - Successfully processed image_id: a3964ed787b91dead82ba7b24da8f0dc
+2025-03-29 16:36:15,980 - INFO - Successfully processed image_id: a342b93125451de0a8f7222becf046c8
+2025-03-29 16:36:20,310 - INFO - Successfully processed image_id: 3bc09d7670d3b610462c7440b87c45e9
+2025-03-29 16:36:24,450 - INFO - Successfully processed image_id: e8b8ab598b26680222b6b3edc0ee6909
+2025-03-29 16:36:28,215 - INFO - Successfully processed image_id: 68b6744fa2505a4e2bd518039dfc2a76
+2025-03-29 16:36:31,702 - INFO - Successfully processed image_id: c3f2656f395f823a14f7da27997b2dee
+2025-03-29 16:36:35,597 - INFO - Successfully processed image_id: 2f8bedb44fbe6e454db60988d202b27f
+2025-03-29 16:36:39,119 - INFO - Successfully processed image_id: bd3d9d8863e10cb96c0c2216bb4e4af5
+2025-03-29 16:36:43,953 - INFO - Successfully processed image_id: 1688b1ea59e643461a436df72548c57a
+2025-03-29 16:36:44,961 - ERROR - Image load failed: 3bb16efadf5e5ace092f7f750d7dafb6 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/3bb16efadf5e5ace092f7f750d7dafb6.jpg'
+2025-03-29 16:36:48,618 - INFO - Successfully processed image_id: 56c94e1b84941d653575aa424650a230
+2025-03-29 16:36:55,100 - INFO - Successfully processed image_id: 624356fb6860c7260a30fc779a1b506f
+2025-03-29 16:36:59,278 - INFO - Successfully processed image_id: 0e84448d5c0ce47a2dafbe52c523aaca
+2025-03-29 16:37:02,692 - INFO - Successfully processed image_id: 72bdb933175d3e31cab808322b2177fe
+2025-03-29 16:37:03,699 - ERROR - Image load failed: 78031fc518371b67170defa89e203b31 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/78031fc518371b67170defa89e203b31.jpg'
+2025-03-29 16:37:06,847 - INFO - Successfully processed image_id: 57d4413ee70c7d1e17f842b960d79de1
+2025-03-29 16:37:11,083 - INFO - Successfully processed image_id: 063da32b5253e2df2c5b8a59415928d0
+2025-03-29 16:37:15,614 - INFO - Successfully processed image_id: a5ff0bb63b0ab82ff0bd463c4a791419
+2025-03-29 16:37:18,898 - INFO - Successfully processed image_id: 8ea72fe9eb939c0f33449c5bb9c0a6ce
+2025-03-29 16:37:24,847 - INFO - Successfully processed image_id: 5a4e4633c81f45be4759d8e292ef606c
+2025-03-29 16:37:25,854 - ERROR - Image load failed: 9d0cb9b8981324356e3a541f0229ec6d - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9d0cb9b8981324356e3a541f0229ec6d.jpg'
+2025-03-29 16:37:28,247 - INFO - Successfully processed image_id: 3fe786936d77224b2592d9a98b542c85
+2025-03-29 16:37:33,237 - INFO - Successfully processed image_id: 33dbc814a762ab2b186407b4a0787ff9
+2025-03-29 16:37:39,403 - INFO - Successfully processed image_id: 7b8855f5386ce4859893217919ed96de
+2025-03-29 16:37:43,530 - INFO - Successfully processed image_id: 434212d3982818c9fcb3df43917e27ed
+2025-03-29 16:37:47,738 - INFO - Successfully processed image_id: 6048d91f47a92aae574e1340832f2355
+2025-03-29 16:37:52,369 - INFO - Successfully processed image_id: c319d36cdd6667718be0e1f4337b6790
+2025-03-29 16:37:55,723 - INFO - Successfully processed image_id: ece16f58c3d21ab79474c9a20fc75287
+2025-03-29 16:37:59,356 - INFO - Successfully processed image_id: 83203482795614943b0cbb392b720b49
+2025-03-29 16:38:00,362 - ERROR - Image load failed: 96ab02b497d499e0f7bfb719c1afb156 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/96ab02b497d499e0f7bfb719c1afb156.jpg'
+2025-03-29 16:38:03,898 - INFO - Successfully processed image_id: af32656ed5a02b2a1fcbfe0524e20138
+2025-03-29 16:38:12,928 - INFO - Successfully processed image_id: 0f9cd718703fa9f1d997899842fdaf53
+2025-03-29 16:38:18,815 - INFO - Successfully processed image_id: 19535c3a7d00d8f86b11ab70a5ace8e5
+2025-03-29 16:38:22,621 - INFO - Successfully processed image_id: fd9d17b50e1aa5a5825574e500e4b173
+2025-03-29 16:38:23,632 - ERROR - Image load failed: 32b78d7c374a35e618d3ee0037c32971 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/32b78d7c374a35e618d3ee0037c32971.jpg'
+2025-03-29 16:38:28,233 - INFO - Successfully processed image_id: d27b8fd1c8f71a46753f0e3b087aed58
+2025-03-29 16:38:31,854 - INFO - Successfully processed image_id: 52f5cacd38d64a2315209fd11405b981
+2025-03-29 16:38:39,132 - INFO - Successfully processed image_id: c668e2b4387a054951e85b46b24dfb3c
+2025-03-29 16:38:40,139 - ERROR - Image load failed: df607ecb0ac2089422532a35f4f6325d - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/df607ecb0ac2089422532a35f4f6325d.jpg'
+2025-03-29 16:38:41,976 - INFO - Successfully processed image_id: da72a6f1497287ce8e748c1f73ea919f
+2025-03-29 16:38:42,982 - ERROR - Image load failed: 9983245de580eae4eeacd47120c4de0c - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9983245de580eae4eeacd47120c4de0c.jpg'
+2025-03-29 16:38:46,104 - INFO - Successfully processed image_id: 818977ab29164bd5d9eb066978ae4b9b
+2025-03-29 16:38:56,940 - INFO - Successfully processed image_id: 7a8b577395ddf99d221a363edbb49b66
+2025-03-29 16:39:02,153 - INFO - Successfully processed image_id: 4a05952d41ddf7987e63a0b6bdd37d63
+2025-03-29 16:39:06,767 - INFO - Successfully processed image_id: c5ce7cf9aec8aa1b6afee19f387dbc90
+2025-03-29 16:39:11,477 - INFO - Successfully processed image_id: 970996c2391ea102906c47a56a583eeb
+2025-03-29 16:39:12,484 - ERROR - Image load failed: ed121fe1724b3169f93734b16b23fbd6 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/ed121fe1724b3169f93734b16b23fbd6.jpg'
+2025-03-29 16:39:15,390 - INFO - Successfully processed image_id: 10ebc380456fce730615bc07b083d26d
+2025-03-29 16:39:16,396 - ERROR - Image load failed: 9154f6e6d7db48f9ad5f5525a9945990 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/9154f6e6d7db48f9ad5f5525a9945990.jpg'
+2025-03-29 16:39:19,429 - INFO - Successfully processed image_id: ab3c4505fbdf99604a692c9edcb2656f
+2025-03-29 16:39:23,167 - INFO - Successfully processed image_id: 07e159f78e399960dc9afa33328a086a
+2025-03-29 16:39:47,829 - INFO - Successfully processed image_id: 91b59b00e29eaccbe9f65a39ee92a6dc
+2025-03-29 16:39:52,046 - INFO - Successfully processed image_id: 23280115ed0daa6b82c6e609f71adfe1
+2025-03-29 16:39:58,485 - INFO - Successfully processed image_id: 5c7fa73e137cdd33dc0ff00b5bdaaffc
+2025-03-29 16:39:59,504 - ERROR - Image load failed: f2dc9ef43011345b92aa3a3fe660b0da - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/f2dc9ef43011345b92aa3a3fe660b0da.jpg'
+2025-03-29 16:40:03,648 - INFO - Successfully processed image_id: a818b49364f98d3fc3478d79906f37f2
+2025-03-29 16:40:13,448 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:40:24,509 - INFO - Successfully processed image_id: 924cb3281c4c2030b08fe69cb7780c25
+2025-03-29 16:40:25,515 - ERROR - Image load failed: 79d1dd73b8a9a8668f2ddeb4ee535b43 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/79d1dd73b8a9a8668f2ddeb4ee535b43.jpg'
+2025-03-29 16:40:25,516 - ERROR - Image load failed: 7fd5594491fef7f62b67366b10067ca3 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/7fd5594491fef7f62b67366b10067ca3.jpg'
+2025-03-29 16:40:25,516 - ERROR - Image load failed: b4b285fec56e19e8bbfc12601708ebbe - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/b4b285fec56e19e8bbfc12601708ebbe.jpg'
+2025-03-29 16:40:28,146 - INFO - Successfully processed image_id: c8b6b9dcb7691cbb273de75f07becd60
+2025-03-29 16:40:33,208 - INFO - Successfully processed image_id: 3bf199e26cbb9a6001206ea5bbe03699
+2025-03-29 16:40:37,834 - INFO - Successfully processed image_id: c27c8838804af53a4ad0ce539bf2214d
+2025-03-29 16:40:44,574 - INFO - Successfully processed image_id: 136a22c246fc9018235da719d1ed94b3
+2025-03-29 16:40:49,679 - INFO - Successfully processed image_id: bb467e960ebf462487644f9cbec06643
+2025-03-29 16:40:53,955 - INFO - Successfully processed image_id: 2333b816a0fa370aae60c0cd0301f862
+2025-03-29 16:41:01,046 - INFO - Successfully processed image_id: 9539ba601a8dead0cc0ddc598de2acbc
+2025-03-29 16:41:02,055 - ERROR - Image load failed: e32c07d2fcd0b1c5815df1c36727aaae - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/e32c07d2fcd0b1c5815df1c36727aaae.jpg'
+2025-03-29 16:41:04,552 - INFO - Successfully processed image_id: 1b6ca28b6111c82a60c28ab1692f391d
+2025-03-29 16:41:08,216 - INFO - Successfully processed image_id: 7df73734a6d411e12dc91a68a4e94935
+2025-03-29 16:41:11,826 - INFO - Successfully processed image_id: 7611591dbd21eb7abff2824662c38465
+2025-03-29 16:41:12,834 - ERROR - Image load failed: be7d231d3977cff02d2b665c7689090a - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/be7d231d3977cff02d2b665c7689090a.jpg'
+2025-03-29 16:41:16,917 - INFO - Successfully processed image_id: 4a55b8a3bb2a821a26e3cf816b566a5a
+2025-03-29 16:41:20,963 - INFO - Successfully processed image_id: 806b6450da6e85e9daa61a5b889e666b
+2025-03-29 16:41:25,475 - INFO - Successfully processed image_id: 718862191894bf56daedea27a16dd3fb
+2025-03-29 16:41:26,483 - INFO - 
+========================================
+Completed processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:45:51,771 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:45:51,780 - ERROR - Image load failed: b8705240f8f77a1a7c1a0644bd2ed270 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/b8705240f8f77a1a7c1a0644bd2ed270.jpg'
+2025-03-29 16:45:55,762 - INFO - Successfully processed image_id: 626b156975d632bb8ae9b3b4f536675e
+2025-03-29 16:45:56,769 - ERROR - Image load failed: d76d409287d25d63288a6a52731e5d67 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/d76d409287d25d63288a6a52731e5d67.jpg'
+2025-03-29 16:46:03,691 - INFO - Successfully processed image_id: 70dff51498cd38438dfcf072b090b0af
+2025-03-29 16:46:04,698 - ERROR - Image load failed: 6500b39b513a6f59a883d89f3d81ba46 - [Errno 2] No such file or directory: '/home/AGFirass/Documents/4DS5-S2/PIDEV/Scraping/data_to_upload/Automotive_Transport/Automotive_Transport images/6500b39b513a6f59a883d89f3d81ba46.jpg'
+2025-03-29 16:46:04,700 - INFO - 
+========================================
+Completed processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:46:13,977 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 16:46:21,843 - INFO - Successfully processed image_id: 6d51f410481e067aea5f29a8554b3ace
+2025-03-29 16:46:25,923 - INFO - Successfully processed image_id: 6af3ba829be86e9169cc7e7e2744f43a
+2025-03-29 16:46:31,215 - INFO - Successfully processed image_id: ffcf484f0a01524f98af487de55af514
+2025-03-29 16:46:32,223 - INFO - 
+========================================
+Completed processing for sector: Automotive_Transport
+========================================
+2025-03-29 17:36:36,423 - INFO - 
+========================================
+Starting processing for sector: Automotive_Transport
+========================================
+2025-03-29 17:36:36,432 - INFO - Sector Automotive_Transport already completed
+2025-03-29 17:36:36,433 - INFO - 
+========================================
+Completed processing for sector: Automotive_Transport
+========================================
