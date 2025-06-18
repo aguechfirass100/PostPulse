@@ -219,4 +219,4 @@ See specific README files in each model directory under the `AI` folder:
 
 ## 📞 Contact
 
-For inquiries, please reach out to [contact@postpulse.ai](mailto:aguechfirass100@gmail.com)
+For inquiries, please reach out to [aguechfirass100@gmail.com](mailto:aguechfirass100@gmail.com)
